@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="Placeholder image">
+  <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#cfeafb"/>
+    <stop offset="1" stop-color="#8fcdf2"/>
+  </linearGradient>
+  <radialGradient id="b0" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#9fd8f7"/>
+    <stop offset=".55" stop-color="#2a7fd4"/>
+    <stop offset="1" stop-color="#2a7fd4" stop-opacity=".85"/>
+  </radialGradient>
+  <radialGradient id="b1" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#7ab7ee"/>
+    <stop offset=".55" stop-color="#1f56b8"/>
+    <stop offset="1" stop-color="#1f56b8" stop-opacity=".85"/>
+  </radialGradient>
+  <radialGradient id="b2" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#fde0e4"/>
+    <stop offset=".55" stop-color="#ef8f9f"/>
+    <stop offset="1" stop-color="#ef8f9f" stop-opacity=".85"/>
+  </radialGradient>
+  <radialGradient id="b3" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#9fd8f7"/>
+    <stop offset=".55" stop-color="#2a7fd4"/>
+    <stop offset="1" stop-color="#2a7fd4" stop-opacity=".85"/>
+  </radialGradient>
+  <radialGradient id="b4" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#fff1a6"/>
+    <stop offset=".55" stop-color="#f5c400"/>
+    <stop offset="1" stop-color="#f5c400" stop-opacity=".85"/>
+  </radialGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <path transform="translate(576 576) rotate(20)" fill="#bfe5fa" d="M -256 -25.6 C -256 -204.8 -51.2 -268.8 102.4 -230.4 C 268.8 -192 281.6 38.4 192 166.4 C 89.6 294.4 -140.8 268.8 -217.6 140.8 C -268.8 64 -256 25.6 -256 -25.6 Z"/>
+  <path transform="translate(200 240) rotate(-30)" fill="#e7f5fd" d="M -176 -17.6 C -176 -140.8 -35.2 -184.8 70.4 -158.4 C 184.8 -132 193.60000000000002 26.4 132 114.4 C 61.599999999999994 202.39999999999998 -96.80000000000001 184.8 -149.6 96.80000000000001 C -184.8 44 -176 17.6 -176 -17.6 Z"/>
+  <circle cx="240" cy="560" r="160" fill="none" stroke="#ffffff" stroke-width="3.6363636363636362"/>
+  <circle cx="440.00000000000006" cy="360" r="160" fill="url(#b0)"/><ellipse cx="384.00000000000006" cy="292.8" rx="35.2" ry="19.2" fill="#fff" opacity=".55" transform="rotate(-25 384.00000000000006 292.8)"/>
+  <circle cx="240" cy="496" r="80" fill="url(#b1)"/><ellipse cx="212" cy="462.4" rx="17.6" ry="9.6" fill="#fff" opacity=".55" transform="rotate(-25 212 462.4)"/>
+  <circle cx="600" cy="200" r="64" fill="url(#b2)"/><ellipse cx="577.6" cy="173.12" rx="14.08" ry="7.68" fill="#fff" opacity=".55" transform="rotate(-25 577.6 173.12)"/>
+  <circle cx="576" cy="560" r="104" fill="url(#b3)"/><ellipse cx="539.6" cy="516.32" rx="22.88" ry="12.48" fill="#fff" opacity=".55" transform="rotate(-25 539.6 516.32)"/>
+  <circle cx="336" cy="160" r="48" fill="url(#b4)"/><ellipse cx="319.2" cy="139.84" rx="10.56" ry="5.76" fill="#fff" opacity=".55" transform="rotate(-25 319.2 139.84)"/>
+  
+</svg>

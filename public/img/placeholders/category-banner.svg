@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360" role="img" aria-label="Placeholder image">
+  <g stroke="#ffffff" stroke-width="3" fill="rgba(255,255,255,.12)" stroke-linejoin="round">
+    <path d="M40 120h130v220H40z"/><path d="M170 120l40-24v220l-40 24z"/><path d="M40 120l40-24h130l-40 24z"/>
+    <path d="M220 60h150v280H220z"/><path d="M370 60l44-26v280l-44 26z"/><path d="M220 60l44-26h150l-44 26z"/>
+    <path d="M410 190h70v150h-70z"/><path d="M480 190l24-14v150l-24 14z"/><path d="M410 190l24-14h70l-24 14z"/>
+  </g>
+  <circle cx="120" cy="60" r="26" fill="#f7beb6"/><circle cx="470" cy="120" r="16" fill="#4ec2eb"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="640" viewBox="0 0 800 640" role="img" aria-label="Placeholder image">
+  <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f0e7fb"/>
+    <stop offset="1" stop-color="#cdb8f1"/>
+  </linearGradient>
+  <radialGradient id="b0" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#e2d6fa"/>
+    <stop offset=".55" stop-color="#7d5bc6"/>
+    <stop offset="1" stop-color="#7d5bc6" stop-opacity=".85"/>
+  </radialGradient>
+  <radialGradient id="b1" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#fde0e4"/>
+    <stop offset=".55" stop-color="#ef8f9f"/>
+    <stop offset="1" stop-color="#ef8f9f" stop-opacity=".85"/>
+  </radialGradient>
+  <radialGradient id="b2" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#9fd8f7"/>
+    <stop offset=".55" stop-color="#2a7fd4"/>
+    <stop offset="1" stop-color="#2a7fd4" stop-opacity=".85"/>
+  </radialGradient>
+  </defs>
+  <rect width="800" height="640" fill="url(#bg)"/>
+  
+  
+  <circle cx="400" cy="320" r="128" fill="url(#b0)"/><ellipse cx="355.2" cy="266.24" rx="28.16" ry="15.36" fill="#fff" opacity=".55" transform="rotate(-25 355.2 266.24)"/>
+  <circle cx="176" cy="460.79999999999995" r="51.2" fill="url(#b1)"/><ellipse cx="158.08" cy="439.29599999999994" rx="11.264000000000001" ry="6.144" fill="#fff" opacity=".55" transform="rotate(-25 158.08 439.29599999999994)"/>
+  <circle cx="624" cy="160" r="44.800000000000004" fill="url(#b2)"/><ellipse cx="608.32" cy="141.184" rx="9.856000000000002" ry="5.376" fill="#fff" opacity=".55" transform="rotate(-25 608.32 141.184)"/>
+  
+</svg>

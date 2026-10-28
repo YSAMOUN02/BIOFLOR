@@ -1,0 +1,5 @@
+*
+!private/
+!public/
+!seed-media/
+!.gitignore

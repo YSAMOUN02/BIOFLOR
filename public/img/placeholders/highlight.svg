@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="Placeholder image">
+  <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff3d6"/>
+    <stop offset="1" stop-color="#f8d9b5"/>
+  </linearGradient>
+  <radialGradient id="b0" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#ffd2b0"/>
+    <stop offset=".55" stop-color="#f7853a"/>
+    <stop offset="1" stop-color="#f7853a" stop-opacity=".85"/>
+  </radialGradient>
+  <radialGradient id="b1" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#fff1a6"/>
+    <stop offset=".55" stop-color="#f5c400"/>
+    <stop offset="1" stop-color="#f5c400" stop-opacity=".85"/>
+  </radialGradient>
+  <radialGradient id="b2" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#fde0e4"/>
+    <stop offset=".55" stop-color="#ef8f9f"/>
+    <stop offset="1" stop-color="#ef8f9f" stop-opacity=".85"/>
+  </radialGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <path transform="translate(440.00000000000006 480) rotate(-15)" fill="#f6caa8" d="M -272 -27.200000000000003 C -272 -217.60000000000002 -54.400000000000006 -285.6 108.80000000000001 -244.8 C 285.6 -204 299.20000000000005 40.8 204 176.8 C 95.19999999999999 312.79999999999995 -149.60000000000002 285.6 -231.2 149.60000000000002 C -285.6 68 -272 27.200000000000003 -272 -27.200000000000003 Z"/>
+  <path transform="translate(160 160) rotate(0)" fill="#fff8e7" d="M -144 -14.4 C -144 -115.2 -28.8 -151.20000000000002 57.6 -129.6 C 151.20000000000002 -108 158.4 21.599999999999998 108 93.60000000000001 C 50.4 165.6 -79.2 151.20000000000002 -122.39999999999999 79.2 C -151.20000000000002 36 -144 14.4 -144 -14.4 Z"/>
+  <circle cx="496" cy="463.99999999999994" r="240" fill="none" stroke="#ffffff" stroke-width="3.6363636363636362"/>
+  <circle cx="480" cy="440.00000000000006" r="128" fill="url(#b0)"/><ellipse cx="435.2" cy="386.24000000000007" rx="28.16" ry="15.36" fill="#fff" opacity=".55" transform="rotate(-25 435.2 386.24000000000007)"/>
+  <circle cx="280" cy="560" r="64" fill="url(#b1)"/><ellipse cx="257.6" cy="533.12" rx="14.08" ry="7.68" fill="#fff" opacity=".55" transform="rotate(-25 257.6 533.12)"/>
+  <circle cx="624" cy="200" r="56.00000000000001" fill="url(#b2)"/><ellipse cx="604.4" cy="176.48" rx="12.320000000000002" ry="6.720000000000001" fill="#fff" opacity=".55" transform="rotate(-25 604.4 176.48)"/>
+  
+</svg>

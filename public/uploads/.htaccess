@@ -1,0 +1,17 @@
+# Uploaded files are content, never code. (Apache; on Nginx add the same in the server block.)
+
+# Never run scripts from here, whatever their name.
+<IfModule mod_php.c>
+    php_flag engine off
+</IfModule>
+RemoveHandler .php .phtml .php3 .php4 .php5 .php7 .php8 .phar .pl .py .cgi .shtml
+RemoveType .php .phtml .php3 .php4 .php5 .php7 .php8 .phar
+<FilesMatch "\.(php\d?|phtml|phar|pl|py|cgi|shtml|html?|xhtml|js|mjs)$">
+    Require all denied
+</FilesMatch>
+
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    # An SVG opened on its own cannot run script.
+    Header set Content-Security-Policy "default-src 'none'; img-src 'self' data:; style-src 'unsafe-inline'; sandbox"
+</IfModule>
