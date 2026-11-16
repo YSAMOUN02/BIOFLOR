@@ -22,6 +22,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#001660">
     <meta name="csrf-token" content="{{ csrf_token() }}">
+    <meta name="carousel-i18n" content="{{ json_encode([
+        'prev' => __('Previous slide'), 'next' => __('Next slide'), 'first' => __('Go to first slide'), 'last' => __('Go to last slide'),
+        'slideX' => __('Go to slide %s'), 'pageX' => __('Go to page %s'), 'play' => __('Start autoplay'), 'pause' => __('Pause autoplay'),
+        'carousel' => __('carousel'), 'select' => __('Select a slide to show'), 'slide' => __('slide'), 'slideLabel' => __('%s of %s'),
+    ], JSON_UNESCAPED_UNICODE) }}">
 
     <title>{{ $pageTitle }}</title>
     <meta name="description" content="{{ $metaDesc }}">

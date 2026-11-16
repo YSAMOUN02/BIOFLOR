@@ -53,7 +53,7 @@
     },
     "p|420|items.3.text": {
         "en": "Bioflor® is relaunched in Cambodia through a new partnership with PPM, marked by a relaunch event in October 2026.",
-        "km": "Bioflor® ត្រូវបានដាក់លក់ឡើងវិញនៅកម្ពុជា តាមរយៈភាពជាដៃគូថ្មីជាមួយ PPM Pharma ដែលត្រូវបានសម្គាល់ដោយព្រឹត្តិការណ៍ដាក់លក់ឡើងវិញក្នុងខែតុលា ឆ្នាំ ២០២៦។"
+        "km": "Bioflor® ត្រូវបានដាក់លក់ឡើងវិញនៅកម្ពុជា តាមរយៈភាពជាដៃគូថ្មីជាមួយ PPM Pharma ដែលត្រូវបានសម្គាល់ដោយព្រឹត្តិការណ៍ដាក់លក់ឡើងវិញក្នុងខែតុលា ឆ្នាំ 2026។"
     },
     "p|424|title": {
         "en": "Questions & answers",
@@ -85,7 +85,7 @@
     },
     "p|426|buttons.1.label": {
         "en": "Where to buy",
-        "km": "កន្លែងលក់"
+        "km": "កន្លែងទិញ"
     },
     "p|426|buttons.1.style": {
         "en": "outline",
@@ -125,7 +125,7 @@
     },
     "p|397|text": {
         "en": "<p>Trillions of microorganisms live in your gut. In balance, they help digestion, defend against unwanted microbes and talk to your immune system.</p>",
-        "km": "<p>មីក្រូសរីរាង្គរាប់ពាន់ពាន់លានរស់នៅក្នុងពោះវៀនរបស់អ្នក។ នៅពេលមានតុល្យភាព ពួកវាជួយការរំលាយអាហារ ការពារប្រឆាំងនឹងមីក្រូសារពាង្គកាយដែលមិនចង់បាន និងទំនាក់ទំនងជាមួយប្រព័ន្ធភាពស៊ាំរបស់អ្នក។</p>"
+        "km": "<p>មីក្រូសារពាង្គកាយរាប់ពាន់ពាន់លានរស់នៅក្នុងពោះវៀនរបស់អ្នក។ នៅពេលមានតុល្យភាព ពួកវាជួយការរំលាយអាហារ ការពារប្រឆាំងនឹងមីក្រូសារពាង្គកាយដែលមិនចង់បាន និងទំនាក់ទំនងជាមួយប្រព័ន្ធភាពស៊ាំរបស់អ្នក។</p>"
     },
     "p|397|cta_label": {
         "en": "Understand dysbiosis",
@@ -173,7 +173,7 @@
     },
     "p|370|slides.0.title": {
         "en": "Protection that starts on the inside",
-        "km": "ការការពារដែលចាប់ផ្តើមពីខាងក្នុង"
+        "km": "ការការពារដែលចាប់ផ្តើមពីខាង⁠ក្នុង"
     },
     "p|370|slides.0.text": {
         "en": "<p>{brand}, a probiotic yeast for everyday gut comfort.</p><p>It helps protect and restore the balance of your gut microbiota.<sup>1</sup></p>",
@@ -297,7 +297,7 @@
     },
     "p|376|cards.1.cta_label": {
         "en": "Discover",
-        "km": "ស្វែងរក"
+        "km": "ស្វែងយល់បន្ថែម"
     },
     "p|377|legend": {
         "en": "Our TV spot",
@@ -320,18 +320,6 @@
         "km": "តើត្រូវជ្រើសរើសប្រូបាយអូទិកដែលត្រឹមត្រូវដោយរបៀបណា?"
     },
     "p|378|cta_label": {
-        "en": "Discover more",
-        "km": "ស្វែងយល់បន្ថែម"
-    },
-    "p|379|surtitle": {
-        "en": "Dr. [Name], general practitioner",
-        "km": "វេជ្ជបណ្ឌិត [ឈ្មោះ] វេជ្ជបណ្ឌិតទូទៅ"
-    },
-    "p|379|title": {
-        "en": "“Add a short, approved quote from a healthcare professional here.”",
-        "km": "“បន្ថែមសម្រង់សម្តីខ្លីៗដែលបានអនុម័តពីបុគ្គលិកសុខាភិបាលនៅទីនេះ។”"
-    },
-    "p|379|cta_label": {
         "en": "Discover more",
         "km": "ស្វែងយល់បន្ថែម"
     },
@@ -621,7 +609,7 @@
     },
     "p|388|cards.1.cta_label": {
         "en": "Discover",
-        "km": "ស្វែងរក"
+        "km": "ស្វែងយល់បន្ថែម"
     },
     "p|389|label_show": {
         "en": "See all references",

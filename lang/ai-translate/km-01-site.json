@@ -37,7 +37,7 @@
     },
     "s|newsletter.consent": {
         "en": "Your email address is only used to send you our newsletter. You can unsubscribe at any time with the link in every email. Read our data protection policy.",
-        "km": "អាសយដ្ឋានអ៊ីមែលរបស់អ្នកនឹងត្រូវប្រើសម្រាប់ផ្ញើព្រឹត្តិបត្រព័ត៌មានរបស់យើងប៉ុណ្ណោះ។ អ្នកអាចឈប់ជាវបានគ្រប់ពេល ដោយចុចតំណភ្ជាប់នៅក្នុងអ៊ីមែលនីមួយៗ។ សូមអានគោលការណ៍ការពារទិន្នន័យរបស់យើង។"
+        "km": "អាសយដ្ឋានអ៊ីមែលរបស់អ្នកនឹងត្រូវប្រើសម្រាប់ផ្ញើព្រឹត្តិបត្រព័ត៌មានរបស់យើងប៉ុណ្ណោះ។ អ្នកអាចឈប់ជាវបានគ្រប់ពេល ដោយចុចតំណភ្ជាប់នៅក្នុងអ៊ីមែលនីមួយៗ។"
     },
     "s|newsletter.success_title": {
         "en": "You're in! Thanks for subscribing to our newsletter.",
@@ -197,7 +197,7 @@
     },
     "t|ProductAttribute|17|name": {
         "en": "Units per pack",
-        "km": "ចំនួនក្នុងមួយកញ្ចប់"
+        "km": "ចំនួនក្នុងមួយប្រអប់"
     },
     "t|ProductAttribute|18|name": {
         "en": "Indications",
@@ -365,7 +365,7 @@
     },
     "t|Page|15|title": {
         "en": "Where to buy",
-        "km": "កន្លែងលក់"
+        "km": "កន្លែងទិញ"
     },
     "t|Page|15|meta_description": {
         "en": "Pharmacies and online partners selling {brand}.",

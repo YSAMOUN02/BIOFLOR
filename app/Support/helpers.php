@@ -49,6 +49,15 @@ if (! function_exists('media_url')) {
     }
 }
 
+if (! function_exists('is_placeholder_text')) {
+    /** True for stand-in copy still waiting for approved wording (English or Khmer markers, as in the launch checklist). */
+    function is_placeholder_text(?string $text): bool
+    {
+        return (bool) preg_match('/placeholder|replace this|add the approved reference|\[name\]/i', (string) $text)
+            || (bool) preg_match('/អត្ថបទគំរូ|កន្លែងសម្រាប់ពាក្យ|សូមបន្ថែមឯកសារយោង|សូមជំនួស|\[ឈ្មោះ\]/u', (string) $text);
+    }
+}
+
 if (! function_exists('img_size')) {
     /**
      * ` width="…" height="…"` for an image on this site (a content reference

@@ -289,6 +289,9 @@ class AiTranslations extends Command
         if (preg_match('/[\x{0E00}-\x{0E7F}]/u', $km)) {
             return 'contains Thai letters';
         }
+        if (preg_match('/[\x{3040}-\x{30FF}\x{3400}-\x{9FFF}\x{AC00}-\x{D7AF}]/u', $km)) {
+            return 'contains Chinese, Japanese or Korean characters';
+        }
         preg_match_all('#</?([a-z0-9]+)#i', $en, $ta);
         preg_match_all('#</?([a-z0-9]+)#i', $km, $tb);
         if (count($ta[0]) !== count($tb[0])) {

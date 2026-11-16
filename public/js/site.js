@@ -259,11 +259,13 @@
   function initCarousels() {
     if (typeof window.Splide === 'undefined') return;
 
-    const i18n = {
+    // Screen-reader labels; the layout's <meta name="carousel-i18n"> carries the page language's wording.
+    let i18n = {
       prev: 'Previous slide', next: 'Next slide', first: 'Go to first slide', last: 'Go to last slide',
       slideX: 'Go to slide %s', pageX: 'Go to page %s', play: 'Start autoplay', pause: 'Pause autoplay',
       carousel: 'carousel', select: 'Select a slide to show', slide: 'slide', slideLabel: '%s of %s',
     };
+    try { i18n = Object.assign(i18n, JSON.parse(document.querySelector('meta[name="carousel-i18n"]')?.content || '{}')); } catch (e) { /* keep English */ }
 
     $$('.js-carousel').forEach((el) => {
       let options = {};

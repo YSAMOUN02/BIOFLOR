@@ -1,5 +1,6 @@
 {{-- "See all references" toggle. $body is HTML; $id must be unique on the page. --}}
-@if (filled($body ?? null))
+{{-- Stand-in text ("add the approved reference…") is not shown to visitors. --}}
+@if (filled($body ?? null) && ! is_placeholder_text($body))
     <section class="references">
         <div class="container references__head">
             <button class="references__toggle js-collapse" type="button" aria-expanded="false" aria-controls="{{ $id }}">
