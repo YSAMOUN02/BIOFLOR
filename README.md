@@ -109,9 +109,9 @@ php artisan storefront:rebrand Enterol Bioflor --dry-run
 php artisan storefront:rebrand Enterol Bioflor
 ```
 
-## Languages (English, Khmer, French)
+## Languages (English, Khmer)
 
-Locales are rows in `locales` (`en` default, `km`, `fr`) and the first segment
+Locales are rows in `locales` (`en` default, `km`) and the first segment
 of every URL. Each kind of text is stored and edited here:
 
 | What | Stored in | Edited in |
@@ -121,6 +121,21 @@ of every URL. Each kind of text is stored and edited here:
 | Product attribute values (pack size, dosage, how to use…) | `product_attribute_values` with `locale = km_KH` | product form → language switch |
 | Settings (title, address, newsletter text…) | `settings` rows `key:km` | **Settings** → language switch |
 | Page sections | `page_sections.translations.km` | section editor → language switch |
+
+**Translating with an AI chat (Gemini, ChatGPT).** Interface words: send
+`lang/km.json` and save the answer over it. Content (products, Q&A, pages,
+articles, sections, settings):
+
+```bash
+php artisan translations:ai export            # lang/ai-translate/km-01-site.json …
+# translate each file in the chat, save the answer over the same file
+php artisan translations:ai import --dry-run  # lists problems, saves nothing
+php artisan translations:ai import
+```
+
+The import only reads the `km` values and skips any text whose `{brand}` /
+`:placeholder`, HTML tags or script look wrong (or that contains Thai letters).
+Re-running `TranslationSeeder` afterwards would put its own Khmer back.
 
 Anything not translated falls back to English. `TranslationSeeder` holds the
 Khmer working text (matched by slug, label or position) — have it reviewed by a
@@ -187,9 +202,7 @@ medicine, travel…), both MIT — licences in `public/vendor/icons`.
   Graph / Twitter tags for link previews on Facebook, TikTok and chat apps
   (**Settings → Share image**; products and articles use their own photo),
   JSON-LD (Organization, WebSite, Product).
-- French still shows English text, so it is `noindex` and left out of the
-  sitemap — remove `fr` from `noindex_locales` in `config/storefront.php` once
-  translated. Search results are `noindex`.
+- Search results are `noindex`.
 - Photos carry `width`/`height` (`img_size()`), so pages do not jump while
   loading; the first hero slide and the product photo load first
   (`fetchpriority`). The home hero has a phone-sized image (`image_mobile`).
@@ -253,9 +266,7 @@ admin password, `APP_DEBUG`); the others have a *Mark done* button (stored as
 5. Add the online shops and local pharmacies in **Admin → Where to buy** ("Online
    shop" ticked = *Buy online*, otherwise *Local pharmacies* with a map link),
    replace the sample reviews, change the admin password, set `APP_DEBUG=false`.
-6. Have the Khmer text reviewed and translate the article bodies. Translate the
-   `fr` content or deactivate the French locale — it currently shows English
-   (it is `noindex` meanwhile).
+6. Have the Khmer text reviewed and translate the article bodies.
 7. Server: point the web root at `public/` only; HTTPS with `APP_URL=https://…`;
    in `.env` set `APP_ENV=production`, `APP_DEBUG=false` (with debug on, an
    error page shows code and paths), `SESSION_SECURE_COOKIE=true`; enable PHP

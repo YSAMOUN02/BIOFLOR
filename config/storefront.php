@@ -9,12 +9,12 @@ return [
     'default_locale' => 'en',
 
     // URL prefixes the site answers to (rows in the locales table give labels and order).
-    'locales'        => ['en', 'km', 'fr'],
+    'locales'        => ['en', 'km'],
 
     // Languages search engines should not index yet: their pages still show
     // English text, which would compete with the English pages. Remove a
     // prefix once its content is translated.
-    'noindex_locales' => ['fr'],
+    'noindex_locales' => [],
 
     // Newsletter pop-in: shown after this many page views, then snoozed.
     'newsletter_popup' => [

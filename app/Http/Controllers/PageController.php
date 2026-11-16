@@ -43,7 +43,8 @@ class PageController extends Controller
             ]);
         }
 
-        abort_unless($page, 404);
+        // A composed page whose sections are all hidden is switched off, not empty.
+        abort_unless($page && ! PageSection::where('page_key', $slug)->exists(), 404);
 
         return view('pages.content', ['page' => $page]);
     }

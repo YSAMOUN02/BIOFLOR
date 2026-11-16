@@ -52,7 +52,7 @@ class SeoController extends Controller
     /** @return Collection<int, array{path: string, lastmod: ?string}> paths without the language prefix */
     private function entries(): Collection
     {
-        $pages = PageSection::distinct()->pluck('page_key')
+        $pages = PageSection::where('is_visible', true)->distinct()->pluck('page_key')
             ->diff(self::NOT_PAGES)
             ->merge(self::CONTENT_PAGES)
             ->map(fn ($key) => ['path' => $key.'.html', 'lastmod' => null]);

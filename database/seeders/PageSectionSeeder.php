@@ -100,8 +100,8 @@ class PageSectionSeeder extends Seeder
                 'bubbles'   => true,
                 'highlight' => [
                     'title'     => 'Get to know your gut microbiota and how to care for it',
-                    'cta_label' => 'Take the quiz',
-                    'cta_url'   => 'gut-health-quiz-intro.html',
+                    'cta_label' => 'Learn more',
+                    'cta_url'   => 'gut-health.html',
                     'image'     => $this->img('learn-big', 'img/placeholders/highlight.svg'),
                 ],
                 'cards' => $this->learnCards(),
@@ -278,7 +278,8 @@ class PageSectionSeeder extends Seeder
                 'intro'    => 'What to do when your gut is out of balance.',
                 'slugs'    => ['living-with-ibs', 'watery-diarrhea', 'yeast-vs-bacterial-probiotics'],
             ]],
-            ['type' => 'heroBanner', 'payload' => [
+            // Quiz banner: hidden until a real quiz is built.
+            ['visible' => false, 'type' => 'heroBanner', 'payload' => [
                 'variant'    => 'highlight',
                 'align'      => 'left',
                 'background' => 'fifth',
@@ -451,15 +452,16 @@ class PageSectionSeeder extends Seeder
         ];
     }
 
+    /** Quiz intro: hidden (the page answers 404) until a real quiz is built. */
     private function quiz(): array
     {
         return [
-            ['type' => 'mosaic', 'payload' => [
+            ['visible' => false, 'type' => 'mosaic', 'payload' => [
                 'image'      => $this->img('learn-big', 'img/placeholders/quiz.svg'),
                 'image_side' => 'right',
                 'html'       => '<h1 class="h1-sm">How well do you know your gut?</h1><p class="text-intro">Five quick questions to test what you know about your gut microbiota — and learn something new along the way.</p><p><a class="btn btn--pink" href="gut-health-quiz.html">Start the quiz</a></p>',
             ]],
-            ['type' => 'collapsibleContent', 'payload' => $this->references(1)],
+            ['visible' => false, 'type' => 'collapsibleContent', 'payload' => $this->references(1)],
         ];
     }
 

@@ -9,7 +9,7 @@ use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\URL;
 
 /**
- * Resolves the /{locale}/... URL prefix (en, km, fr), sets the app language
+ * Resolves the /{locale}/... URL prefix (en, km), sets the app language
  * (interface strings in lang/{prefix}.json, dates) and makes the prefix the
  * default for every generated route, so links stay inside the language.
  */

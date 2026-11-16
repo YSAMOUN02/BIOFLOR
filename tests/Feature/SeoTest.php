@@ -27,7 +27,7 @@ class SeoTest extends TestCase
         $this->assertContains(url('km/home'), $urls);
 
         foreach ($urls as $url) {
-            $this->assertStringNotContainsString('/fr/', $url, 'French is not indexed yet');
+            $this->assertStringNotContainsString('/fr/', $url, 'French was removed');
             $this->get(parse_url($url, PHP_URL_PATH))->assertOk();
         }
     }
@@ -43,11 +43,10 @@ class SeoTest extends TestCase
             ->assertDontSee('<link rel="alternate" hreflang="fr-FR"', false);
     }
 
-    public function test_untranslated_french_and_search_results_are_noindex(): void
+    public function test_removed_french_is_gone_and_search_results_are_noindex(): void
     {
-        $this->get('/fr/home')->assertOk()
-            ->assertSee('<meta name="robots" content="noindex, follow">', false)
-            ->assertDontSee('rel="canonical"', false);
+        $this->get('/fr/home')->assertNotFound();
+        $this->get('/en/home')->assertDontSee('français', false);
 
         $this->get('/en/search?q=gut')->assertOk()
             ->assertSee('<meta name="robots" content="noindex, follow">', false)

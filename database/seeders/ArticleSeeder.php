@@ -82,10 +82,13 @@ class ArticleSeeder extends Seeder
             $article['references'] = $article['references']
                 ?? '<p>(1) Add the approved reference supporting the claims in this article.</p>';
 
+            $draft = $article['draft'] ?? false;
+            unset($article['draft']);
+
             Article::updateOrCreate(
                 ['slug' => $article['slug']],
                 $article + [
-                    'published_at' => now()->startOfDay()->subDays(($i + 1) * 4),
+                    'published_at' => $draft ? null : now()->startOfDay()->subDays(($i + 1) * 4),
                     'read_minutes' => 3 + ($i % 5),
                 ],
             );
@@ -275,6 +278,7 @@ class ArticleSeeder extends Seeder
             [
                 'title'    => 'Quiz: how well do you know your gut microbiota?',
                 'slug'     => 'quiz-learn-more-about-your-gut-microbiota',
+                'draft'    => true,   // hidden until a real quiz is built
                 'category' => 'gut-health',
                 'eyebrow'  => 'Interactive',
                 'image'    => 'flora',

@@ -69,7 +69,6 @@ class LaunchChecklist
             $this->articles(),
             $this->legalPages(),
             $this->khmerReview(),
-            $this->french(),
             $this->adminPassword(),
             $this->goLive(),
         ];
@@ -276,16 +275,6 @@ class LaunchChecklist
     {
         return $this->task('khmer-review', 'Have the Khmer text checked by a native speaker', 'The Khmer text is a first draft. Check the menu, products, pages, Q&A, footer and buttons (button words are in lang/km.json — ask your developer).', [
             $this->manual('khmer-review', 'Khmer text reviewed and corrected', route('home', ['locale' => $this->km])),
-        ]);
-    }
-
-    private function french(): array
-    {
-        $exists = Locale::where('url_prefix', 'fr')->exists();
-        $count  = $exists ? Translation::where('locale', 'fr')->count() : 0;
-
-        return $this->task('french', 'Decide about French', 'French is in the language menu but shows English text.', [
-            $this->auto('Translate the site into French, or ask your developer to remove French', ! $exists || $count > 0, null),
         ]);
     }
 

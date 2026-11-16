@@ -1,0 +1,794 @@
+{
+    "p|418|breadcrumb": {
+        "en": "About us",
+        "km": "អំពីយើង"
+    },
+    "p|418|title": {
+        "en": "About us",
+        "km": "អំពីយើង"
+    },
+    "p|418|text": {
+        "en": "<p>Bioflor® is a probiotic brand developed by Biocodex, a French pharmaceutical company specializing in microbiota health.</p><p>Bioflor® contains <em>Saccharomyces boulardii</em> CNCM I-745, a well-researched probiotic yeast.</p><p>In Cambodia, Bioflor® is distributed by PPM, committed to improving access to trusted healthcare products and supporting digestive health.</p>",
+        "km": "<p>Bioflor® គឺជាម៉ាកប្រូបាយអូទិកដែលបង្កើតឡើងដោយ Biocodex ដែលជាក្រុមហ៊ុនឱសថបារាំង ជំនាញខាងសុខភាពមីក្រូប៊ីយ៉ូតា។</p><p>Bioflor® មានផ្ទុក <em>Saccharomyces boulardii</em> CNCM I-745 ដែលជាមេដំបែប្រូបាយអូទិកដែលត្រូវបានស្រាវជ្រាវយ៉ាងទូលំទូលាយ។</p><p>នៅកម្ពុជា Bioflor® ត្រូវបានចែកចាយដោយ PPM Pharma ដែលប្តេជ្ញាបង្កើនលទ្ធភាពទទួលបានផលិតផលថែទាំសុខភាពដែលគួរឱ្យទុកចិត្ត និងគាំទ្រសុខភាពប្រព័ន្ធរំលាយអាហារ។</p>"
+    },
+    "p|419|html": {
+        "en": "<h2>Our mission</h2>",
+        "km": "<h2>បេសកកម្មរបស់យើង</h2>"
+    },
+    "p|419|aside": {
+        "en": "<p class=\"text-intro\">Our mission is to improve digestive health by providing trusted, science-backed probiotic solutions.</p><p>Through Bioflor® containing <em>Saccharomyces boulardii</em> CNCM I-745, we are committed to supporting gut health, sharing reliable health information, and improving access to quality healthcare in Cambodia.</p>",
+        "km": "<p class=\"text-intro\">បេសកកម្មរបស់យើងគឺលើកកម្ពស់សុខភាពប្រព័ន្ធរំលាយអាហារ តាមរយៈការផ្តល់នូវដំណោះស្រាយប្រូបាយអូទិកដែលគួរឱ្យទុកចិត្ត និងផ្អែកលើវិទ្យាសាស្ត្រ។</p><p>តាមរយៈ Bioflor® ដែលមានផ្ទុក <em>Saccharomyces boulardii</em> CNCM I-745 យើងប្តេជ្ញាគាំទ្រសុខភាពពោះវៀន ចែករំលែកព័ត៌មានសុខភាពដែលអាចទុកចិត្តបាន និងបង្កើនលទ្ធភាពទទួលបានសេវាថែទាំសុខភាពប្រកបដោយគុណភាពនៅកម្ពុជា។</p>"
+    },
+    "p|420|title": {
+        "en": "Our history",
+        "km": "ប្រវត្តិរបស់យើង"
+    },
+    "p|420|items.0.title": {
+        "en": "The discovery",
+        "km": "ការរកឃើញ"
+    },
+    "p|420|items.0.text": {
+        "en": "Henri Boulard discovered <em>Saccharomyces boulardii</em> in Indochina.",
+        "km": "Henri Boulard បានរកឃើញ <em>Saccharomyces boulardii</em> នៅឥណ្ឌូចិន។"
+    },
+    "p|420|items.1.title": {
+        "en": "Biocodex founded",
+        "km": "ការបង្កើតក្រុមហ៊ុន Biocodex"
+    },
+    "p|420|items.1.text": {
+        "en": "Biocodex was established in France to develop and commercialize the probiotic yeast.",
+        "km": "Biocodex ត្រូវបានបង្កើតឡើងនៅប្រទេសបារាំង ដើម្បីអភិវឌ្ឍ និងធ្វើពាណិជ្ជកម្មមេដំបែប្រូបាយអូទិកនេះ។"
+    },
+    "p|420|items.2.title": {
+        "en": "Medical milestone",
+        "km": "សមិទ្ធផលផ្នែកវេជ្ជសាស្ត្រ"
+    },
+    "p|420|items.2.text": {
+        "en": "<em>Saccharomyces boulardii</em> CNCM I-745 was officially registered as a medicinal product.",
+        "km": "<em>Saccharomyces boulardii</em> CNCM I-745 ត្រូវបានចុះបញ្ជីជាផ្លូវការជាផលិតផលឱសថ។"
+    },
+    "p|420|items.3.title": {
+        "en": "Bioflor® relaunch in Cambodia",
+        "km": "ការដាក់លក់ Bioflor® ឡើងវិញនៅកម្ពុជា"
+    },
+    "p|420|items.3.text": {
+        "en": "Bioflor® is relaunched in Cambodia through a new partnership with PPM, marked by a relaunch event in October 2026.",
+        "km": "Bioflor® ត្រូវបានដាក់លក់ឡើងវិញនៅកម្ពុជា តាមរយៈភាពជាដៃគូថ្មីជាមួយ PPM Pharma ដែលត្រូវបានសម្គាល់ដោយព្រឹត្តិការណ៍ដាក់លក់ឡើងវិញក្នុងខែតុលា ឆ្នាំ ២០២៦។"
+    },
+    "p|424|title": {
+        "en": "Questions & answers",
+        "km": "សំណួរ និងចម្លើយ"
+    },
+    "p|424|subtitle": {
+        "en": "Answers to common questions about probiotics and the {brand} range.",
+        "km": "ចម្លើយចំពោះសំណួរទូទៅអំពីប្រូបាយអូទិក និងផលិតផល {brand}។"
+    },
+    "p|424|width": {
+        "en": "md",
+        "km": "md"
+    },
+    "p|426|title": {
+        "en": "Didn't find your answer?",
+        "km": "រកមិនឃើញចម្លើយរបស់អ្នកមែនទេ?"
+    },
+    "p|426|text": {
+        "en": "Our team is happy to help. You can also ask your pharmacist.",
+        "km": "ក្រុមការងាររបស់យើងរីករាយជួយអ្នក។ អ្នកក៏អាចសួរឱសថការីរបស់អ្នកផងដែរ។"
+    },
+    "p|426|buttons.0.label": {
+        "en": "Contact us",
+        "km": "ទំនាក់ទំនងយើង"
+    },
+    "p|426|buttons.0.style": {
+        "en": "pink",
+        "km": "pink"
+    },
+    "p|426|buttons.1.label": {
+        "en": "Where to buy",
+        "km": "កន្លែងលក់"
+    },
+    "p|426|buttons.1.style": {
+        "en": "outline",
+        "km": "outline"
+    },
+    "p|427|label_show": {
+        "en": "See all references",
+        "km": "មើលឯកសារយោងទាំងអស់"
+    },
+    "p|427|label_hide": {
+        "en": "Hide references",
+        "km": "លាក់ឯកសារយោង"
+    },
+    "p|427|body": {
+        "en": "<p>(1) Add the approved reference for claim 1 on this page.</p><p>(2) Add the approved reference for claim 2 on this page.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 1 នៅលើទំព័រនេះ។</p><p>(2) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 2 នៅលើទំព័រនេះ។</p>"
+    },
+    "p|395|title": {
+        "en": "Gut health",
+        "km": "សុខភាពពោះវៀន"
+    },
+    "p|396|title": {
+        "en": "Gut health",
+        "km": "សុខភាពពោះវៀន"
+    },
+    "p|396|subtitle": {
+        "en": "Your gut microbiota does much more than help you digest. Learn how it works and how to look after it.",
+        "km": "មីក្រូប៊ីយ៉ូតាពោះវៀនរបស់អ្នកធ្វើច្រើនជាងជួយរំលាយអាហារ។ ស្វែងយល់ពីរបៀបដែលវាដំណើរការ និងរបៀបថែរក្សាវា។"
+    },
+    "p|396|width": {
+        "en": "md",
+        "km": "md"
+    },
+    "p|397|title": {
+        "en": "Your gut microbiota in a nutshell",
+        "km": "មីក្រូប៊ីយ៉ូតាពោះវៀនដោយសង្ខេប"
+    },
+    "p|397|text": {
+        "en": "<p>Trillions of microorganisms live in your gut. In balance, they help digestion, defend against unwanted microbes and talk to your immune system.</p>",
+        "km": "<p>មីក្រូសរីរាង្គរាប់ពាន់ពាន់លានរស់នៅក្នុងពោះវៀនរបស់អ្នក។ នៅពេលមានតុល្យភាព ពួកវាជួយការរំលាយអាហារ ការពារប្រឆាំងនឹងមីក្រូសារពាង្គកាយដែលមិនចង់បាន និងទំនាក់ទំនងជាមួយប្រព័ន្ធភាពស៊ាំរបស់អ្នក។</p>"
+    },
+    "p|397|cta_label": {
+        "en": "Understand dysbiosis",
+        "km": "ស្វែងយល់អំពី Dysbiosis"
+    },
+    "p|398|title": {
+        "en": "Understand your gut",
+        "km": "ស្វែងយល់ពីពោះវៀនរបស់អ្នក"
+    },
+    "p|398|intro": {
+        "en": "The basics of the gut microbiota, at every age.",
+        "km": "មូលដ្ឋានគ្រឹះនៃមីក្រូប៊ីយ៉ូតាពោះវៀន សម្រាប់គ្រប់វ័យ។"
+    },
+    "p|398|slugs.0": {
+        "en": "support-health-gut-microbiota",
+        "km": "support-health-gut-microbiota"
+    },
+    "p|398|slugs.1": {
+        "en": "gut-microbiota-children",
+        "km": "gut-microbiota-children"
+    },
+    "p|398|slugs.2": {
+        "en": "understanding-dysbiosis",
+        "km": "understanding-dysbiosis"
+    },
+    "p|399|title": {
+        "en": "Symptoms and advice",
+        "km": "រោគសញ្ញា និងដំបូន្មាន"
+    },
+    "p|399|intro": {
+        "en": "What to do when your gut is out of balance.",
+        "km": "អ្វីដែលត្រូវធ្វើនៅពេលពោះវៀនរបស់អ្នកបាត់បង់តុល្យភាព។"
+    },
+    "p|399|slugs.0": {
+        "en": "living-with-ibs",
+        "km": "living-with-ibs"
+    },
+    "p|399|slugs.1": {
+        "en": "watery-diarrhea",
+        "km": "watery-diarrhea"
+    },
+    "p|399|slugs.2": {
+        "en": "yeast-vs-bacterial-probiotics",
+        "km": "yeast-vs-bacterial-probiotics"
+    },
+    "p|370|slides.0.title": {
+        "en": "Protection that starts on the inside",
+        "km": "ការការពារដែលចាប់ផ្តើមពីខាងក្នុង"
+    },
+    "p|370|slides.0.text": {
+        "en": "<p>{brand}, a probiotic yeast for everyday gut comfort.</p><p>It helps protect and restore the balance of your gut microbiota.<sup>1</sup></p>",
+        "km": "<p>{brand} មេដំបែប្រូបាយអូទិកសម្រាប់ផាសុកភាពពោះវៀនប្រចាំថ្ងៃ។</p><p>វាជួយការពារ និងស្តារតុល្យភាពនៃមីក្រូប៊ីយ៉ូតាពោះវៀនរបស់អ្នក។<sup>1</sup></p>"
+    },
+    "p|370|slides.0.cta_label": {
+        "en": "Explore now",
+        "km": "ស្វែងយល់ឥឡូវនេះ"
+    },
+    "p|370|slides.1.title": {
+        "en": "Gut health made simple",
+        "km": "សុខភាពពោះវៀនដោយភាពសាមញ្ញ"
+    },
+    "p|370|slides.1.text": {
+        "en": "<p>Clear, practical advice to understand your gut microbiota and take care of it every day.</p>",
+        "km": "<p>ដំបូន្មានច្បាស់លាស់ និងងាយអនុវត្ត ដើម្បីស្វែងយល់ និងថែរក្សាមីក្រូប៊ីយ៉ូតាពោះវៀនរបស់អ្នកជារៀងរាល់ថ្ងៃ។</p>"
+    },
+    "p|370|slides.1.cta_label": {
+        "en": "Read our advice",
+        "km": "អានដំបូន្មានរបស់យើង"
+    },
+    "p|371|items.0.label": {
+        "en": "clinical studies",
+        "km": "ការសិក្សាគ្លីនិក"
+    },
+    "p|371|items.1.label": {
+        "en": "years of expertise",
+        "km": "ឆ្នាំនៃបទពិសោធន៍"
+    },
+    "p|371|items.2.label": {
+        "en": "patients since 1980",
+        "km": "អ្នកជំងឺចាប់តាំងពីឆ្នាំ 1980"
+    },
+    "p|372|title": {
+        "en": "A probiotic yeast for the whole family",
+        "km": "មេដំបែប្រូបាយអូទិកសម្រាប់ក្រុមគ្រួសារទាំងមូល"
+    },
+    "p|372|text": {
+        "en": "{brand} helps support gut health at every age by protecting and restoring the gut microbiota.<sup>1</sup>",
+        "km": "{brand} ជួយគាំទ្រសុខភាពពោះវៀនគ្រប់វ័យ ដោយការពារ និងស្តារមីក្រូប៊ីយ៉ូតាពោះវៀន។<sup>1</sup>"
+    },
+    "p|372|cta_label": {
+        "en": "See all products",
+        "km": "មើលផលិតផលទាំងអស់"
+    },
+    "p|373|all_label": {
+        "en": "All the products",
+        "km": "ផលិតផលទាំងអស់"
+    },
+    "p|374|title": {
+        "en": "Our expertise in action",
+        "km": "ជំនាញរបស់យើងក្នុងការអនុវត្តជាក់ស្តែង"
+    },
+    "p|374|text": {
+        "en": "See how {brand} supports digestive health in different situations.",
+        "km": "ស្វែងយល់ពីរបៀបដែល {brand} ជួយថែរក្សាសុខភាពប្រព័ន្ធរំលាយអាហារ និងគាំទ្រដល់ការរំលាយអាហារក្នុងស្ថានភាពផ្សេងៗ។"
+    },
+    "p|374|item_title": {
+        "en": "Managing acute diarrhoea",
+        "km": "ការគ្រប់គ្រងរាគរូសស្រួចស្រាវ"
+    },
+    "p|374|item_text": {
+        "en": "Acute diarrhoea is common and usually short-lived. Knowing how to rehydrate and when to ask for advice helps you care for yourself and your family.",
+        "km": "រាគរូសស្រួចស្រាវ គឺជាបញ្ហាសុខភាពដែលកើតមានជាញឹកញាប់ ហើយជាទូទៅមានរយៈពេលខ្លី។ ការយល់ដឹងអំពីវិធីបំពេញជាតិទឹកក្នុងរាងកាយ និងពេលណាដែលគួរស្វែងរកការណែនាំពីអ្នកជំនាញសុខភាព នឹងជួយឱ្យអ្នកថែរក្សាសុខភាពខ្លួនឯង និងក្រុមគ្រួសារបានកាន់តែប្រសើរ។"
+    },
+    "p|374|cta_label": {
+        "en": "Learn more",
+        "km": "ស្វែងយល់បន្ថែម"
+    },
+    "p|375|title": {
+        "en": "When can {brand} help?",
+        "km": "តើ {brand} អាចជួយបាននៅពេលណា?"
+    },
+    "p|375|items.0.title": {
+        "en": "Acute infectious diarrhoea in adults and children",
+        "km": "រាគរូសស្រួចស្រាវបណ្តាលមកពីការឆ្លងមេរោគ ចំពោះមនុស្សពេញវ័យ និងកុមារ"
+    },
+    "p|375|items.1.title": {
+        "en": "Antibiotic-associated colitis and diarrhoea",
+        "km": "ការរលាកពោះវៀនធំ និងរាគរូស ដែលទាក់ទងនឹងថ្នាំអង់ទីប៊ីយោទិក"
+    },
+    "p|375|items.2.title": {
+        "en": "Preventing <em>Clostridium difficile</em> recurrence, with vancomycin/<wbr>metronidazole",
+        "km": "ការការពារការកើតឡើងវិញនៃ <em>Clostridium difficile</em> រួមជាមួយថ្នាំ vancomycin/<wbr>metronidazole"
+    },
+    "p|375|items.3.title": {
+        "en": "Tube-feeding associated diarrhoea",
+        "km": "រាគរូសដែលទាក់ទងនឹងការផ្តល់អាហារតាមបំពង់"
+    },
+    "p|375|items.4.title": {
+        "en": "Irritable bowel syndrome",
+        "km": "រោគសញ្ញាពោះវៀនរំខាន (IBS)"
+    },
+    "p|376|highlight.title": {
+        "en": "Get to know your gut microbiota and how to care for it",
+        "km": "ស្គាល់មីក្រូប៊ីយ៉ូតាពោះវៀនរបស់អ្នក និងរបៀបថែរក្សាវា"
+    },
+    "p|376|highlight.cta_label": {
+        "en": "Learn more",
+        "km": "ស្វែងយល់បន្ថែម"
+    },
+    "p|376|cards.0.title": {
+        "en": "Your gut microbiota, your health",
+        "km": "មីក្រូប៊ីយ៉ូតាពោះវៀន សុខភាពរបស់អ្នក"
+    },
+    "p|376|cards.0.text": {
+        "en": "How the microbes in your gut influence digestion, immunity and more.",
+        "km": "របៀបដែលមីក្រូសារពាង្គកាយក្នុងពោះវៀនរបស់អ្នកជះឥទ្ធិពលលើការរំលាយអាហារ ប្រព័ន្ធភាពស៊ាំ និងច្រើនទៀត។"
+    },
+    "p|376|cards.0.cta_label": {
+        "en": "Explore",
+        "km": "ស្វែងយល់"
+    },
+    "p|376|cards.1.title": {
+        "en": "Meet the yeast behind {brand}",
+        "km": "ស្គាល់មេដំបែនៅពីក្រោយ {brand}"
+    },
+    "p|376|cards.1.text": {
+        "en": "Discover <em>Saccharomyces boulardii</em> CNCM I-745 and how it helps keep your gut microbiota in balance.",
+        "km": "ស្វែងយល់ពី <em>Saccharomyces boulardii</em> CNCM I-745 និងរបៀបដែលវាជួយរក្សាតុល្យភាពមីក្រូប៊ីយ៉ូតាពោះវៀនរបស់អ្នក។"
+    },
+    "p|376|cards.1.cta_label": {
+        "en": "Discover",
+        "km": "ស្វែងរក"
+    },
+    "p|377|legend": {
+        "en": "Our TV spot",
+        "km": "ពាណិជ្ជកម្មទូរទស្សន៍របស់យើង"
+    },
+    "p|377|transcript_title": {
+        "en": "Video text transcript",
+        "km": "អត្ថបទប្រតិចារិកវីដេអូ"
+    },
+    "p|377|transcript": {
+        "en": "<p>Add the text transcript of your video here, so the film is accessible to everyone.</p>",
+        "km": "<p>បន្ថែមអត្ថបទប្រតិចារិកនៃវីដេអូរបស់អ្នកនៅទីនេះ ដើម្បីឱ្យមនុស្សគ្រប់គ្នាអាចទទួលបានខ្លឹមសារ។</p>"
+    },
+    "p|378|surtitle": {
+        "en": "Questions you might have",
+        "km": "សំណួរដែលអ្នកប្រហែលជាមាន"
+    },
+    "p|378|title": {
+        "en": "How do I choose the right probiotic?",
+        "km": "តើត្រូវជ្រើសរើសប្រូបាយអូទិកដែលត្រឹមត្រូវដោយរបៀបណា?"
+    },
+    "p|378|cta_label": {
+        "en": "Discover more",
+        "km": "ស្វែងយល់បន្ថែម"
+    },
+    "p|379|surtitle": {
+        "en": "Dr. [Name], general practitioner",
+        "km": "វេជ្ជបណ្ឌិត [ឈ្មោះ] វេជ្ជបណ្ឌិតទូទៅ"
+    },
+    "p|379|title": {
+        "en": "“Add a short, approved quote from a healthcare professional here.”",
+        "km": "“បន្ថែមសម្រង់សម្តីខ្លីៗដែលបានអនុម័តពីបុគ្គលិកសុខាភិបាលនៅទីនេះ។”"
+    },
+    "p|379|cta_label": {
+        "en": "Discover more",
+        "km": "ស្វែងយល់បន្ថែម"
+    },
+    "p|380|title": {
+        "en": "What's new in gut health?",
+        "km": "មានអ្វីថ្មីខ្លះអំពីសុខភាពពោះវៀន?"
+    },
+    "p|380|intro": {
+        "en": "Fresh tips and discoveries for keeping your gut microbiota healthy.",
+        "km": "គន្លឹះ និងការរកឃើញថ្មីៗ ដើម្បីរក្សាមីក្រូប៊ីយ៉ូតាពោះវៀនឱ្យមានសុខភាពល្អ។"
+    },
+    "p|380|cta_label": {
+        "en": "Our latest news",
+        "km": "ព័ត៌មានថ្មីៗរបស់យើង"
+    },
+    "p|381|title": {
+        "en": "About us",
+        "km": "អំពីយើង"
+    },
+    "p|381|text": {
+        "en": "<p>Meet the company behind {brand}: its history, its research and its commitment to health.</p>",
+        "km": "<p>ស្គាល់ក្រុមហ៊ុននៅពីក្រោយ {brand}៖ ប្រវត្តិ ការស្រាវជ្រាវ និងការប្តេជ្ញាចិត្តចំពោះសុខភាព។</p>"
+    },
+    "p|381|cta_label": {
+        "en": "Learn about our story",
+        "km": "ស្វែងយល់ពីរឿងរ៉ាវរបស់យើង"
+    },
+    "p|382|label_show": {
+        "en": "See all references",
+        "km": "មើលឯកសារយោងទាំងអស់"
+    },
+    "p|382|label_hide": {
+        "en": "Hide references",
+        "km": "លាក់ឯកសារយោង"
+    },
+    "p|382|body": {
+        "en": "<p>(1) Add the approved reference for claim 1 on this page.</p><p>(2) Add the approved reference for claim 2 on this page.</p><p>(3) Add the approved reference for claim 3 on this page.</p><p>(4) Add the approved reference for claim 4 on this page.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 1 នៅលើទំព័រនេះ។</p><p>(2) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 2 នៅលើទំព័រនេះ។</p><p>(3) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 3 នៅលើទំព័រនេះ។</p><p>(4) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 4 នៅលើទំព័រនេះ។</p>"
+    },
+    "p|407|title": {
+        "en": "Our news",
+        "km": "ព័ត៌មានរបស់យើង"
+    },
+    "p|408|title": {
+        "en": "Our news",
+        "km": "ព័ត៌មានរបស់យើង"
+    },
+    "p|408|subtitle": {
+        "en": "Seasonal advice, nutrition ideas and research highlights about gut health.",
+        "km": "ដំបូន្មានតាមរដូវកាល គំនិតអាហារូបត្ថម្ភ និងចំណុចសំខាន់ៗនៃការស្រាវជ្រាវអំពីសុខភាពពោះវៀន។"
+    },
+    "p|408|width": {
+        "en": "md",
+        "km": "md"
+    },
+    "p|409|label": {
+        "en": "Browse by topic",
+        "km": "រកមើលតាមប្រធានបទ"
+    },
+    "p|409|topics.0": {
+        "en": "Seasonal",
+        "km": "តាមរដូវកាល"
+    },
+    "p|409|topics.1": {
+        "en": "Nutrition",
+        "km": "អាហារូបត្ថម្ភ"
+    },
+    "p|409|topics.2": {
+        "en": "Lifestyle",
+        "km": "របៀបរស់នៅ"
+    },
+    "p|409|topics.3": {
+        "en": "Innovation and research",
+        "km": "នវានុវត្តន៍ និងការស្រាវជ្រាវ"
+    },
+    "p|409|topics.4": {
+        "en": "Company news",
+        "km": "ព័ត៌មានក្រុមហ៊ុន"
+    },
+    "p|409|topics.5": {
+        "en": "Product news",
+        "km": "ព័ត៌មានផលិតផល"
+    },
+    "p|410|style": {
+        "en": "featured",
+        "km": "featured"
+    },
+    "p|411|title": {
+        "en": "Latest by topic",
+        "km": "ចុងក្រោយតាមប្រធានបទ"
+    },
+    "p|412|style": {
+        "en": "listing",
+        "km": "listing"
+    },
+    "p|412|title": {
+        "en": "Seasonal",
+        "km": "តាមរដូវកាល"
+    },
+    "p|412|intro": {
+        "en": "Advice for travel, holidays and the changing seasons.",
+        "km": "ដំបូន្មានសម្រាប់ការធ្វើដំណើរ ថ្ងៃឈប់សម្រាក និងការផ្លាស់ប្តូររដូវ។"
+    },
+    "p|412|tag": {
+        "en": "Seasonal",
+        "km": "តាមរដូវកាល"
+    },
+    "p|412|cta_label": {
+        "en": "See all",
+        "km": "មើលទាំងអស់"
+    },
+    "p|413|style": {
+        "en": "listing",
+        "km": "listing"
+    },
+    "p|413|title": {
+        "en": "Nutrition",
+        "km": "អាហារូបត្ថម្ភ"
+    },
+    "p|413|intro": {
+        "en": "Food ideas that are kind to your gut microbiota.",
+        "km": "គំនិតអាហារដែលល្អសម្រាប់មីក្រូប៊ីយ៉ូតាពោះវៀនរបស់អ្នក។"
+    },
+    "p|413|tag": {
+        "en": "Nutrition",
+        "km": "អាហារូបត្ថម្ភ"
+    },
+    "p|413|cta_label": {
+        "en": "See all",
+        "km": "មើលទាំងអស់"
+    },
+    "p|414|style": {
+        "en": "listing",
+        "km": "listing"
+    },
+    "p|414|title": {
+        "en": "Lifestyle",
+        "km": "របៀបរស់នៅ"
+    },
+    "p|414|intro": {
+        "en": "Sleep, movement and everyday habits.",
+        "km": "ការគេង ចលនា និងទម្លាប់ប្រចាំថ្ងៃ។"
+    },
+    "p|414|tag": {
+        "en": "Lifestyle",
+        "km": "របៀបរស់នៅ"
+    },
+    "p|414|cta_label": {
+        "en": "See all",
+        "km": "មើលទាំងអស់"
+    },
+    "p|415|style": {
+        "en": "listing",
+        "km": "listing"
+    },
+    "p|415|title": {
+        "en": "Innovation and research",
+        "km": "នវានុវត្តន៍ និងការស្រាវជ្រាវ"
+    },
+    "p|415|intro": {
+        "en": "What new research tells us about the microbiome.",
+        "km": "អ្វីដែលការស្រាវជ្រាវថ្មីៗប្រាប់យើងអំពីមីក្រូប៊ីយ៉ូម។"
+    },
+    "p|415|tag": {
+        "en": "Innovation and research",
+        "km": "នវានុវត្តន៍ និងការស្រាវជ្រាវ"
+    },
+    "p|415|cta_label": {
+        "en": "See all",
+        "km": "មើលទាំងអស់"
+    },
+    "p|416|style": {
+        "en": "listing",
+        "km": "listing"
+    },
+    "p|416|title": {
+        "en": "Company news",
+        "km": "ព័ត៌មានក្រុមហ៊ុន"
+    },
+    "p|416|intro": {
+        "en": "News from the {brand} team.",
+        "km": "ព័ត៌មានពីក្រុមការងារ {brand}។"
+    },
+    "p|416|tag": {
+        "en": "Company news",
+        "km": "ព័ត៌មានក្រុមហ៊ុន"
+    },
+    "p|416|cta_label": {
+        "en": "See all",
+        "km": "មើលទាំងអស់"
+    },
+    "p|417|style": {
+        "en": "listing",
+        "km": "listing"
+    },
+    "p|417|title": {
+        "en": "Product news",
+        "km": "ព័ត៌មានផលិតផល"
+    },
+    "p|417|intro": {
+        "en": "New formats and product updates.",
+        "km": "ទម្រង់ថ្មីៗ និងព័ត៌មានថ្មីអំពីផលិតផល។"
+    },
+    "p|417|tag": {
+        "en": "Product news",
+        "km": "ព័ត៌មានផលិតផល"
+    },
+    "p|417|cta_label": {
+        "en": "See all",
+        "km": "មើលទាំងអស់"
+    },
+    "p|383|title": {
+        "en": "Our products",
+        "km": "ផលិតផលរបស់យើង"
+    },
+    "p|383|text": {
+        "en": "Find the {brand} format that suits you and your family.",
+        "km": "ស្វែងរកទម្រង់ {brand} ដែលសមស្របសម្រាប់អ្នក និងក្រុមគ្រួសារ។"
+    },
+    "p|384|title": {
+        "en": "One probiotic yeast, two formats",
+        "km": "មេដំបែប្រូបាយអូទិកមួយ ក្នុងទម្រង់ពីរ"
+    },
+    "p|384|text": {
+        "en": "Sachets or capsules — choose the one that fits your routine.",
+        "km": "កញ្ចប់ ឬកាបស៊ុល — ជ្រើសរើសទម្រង់ដែលសមនឹងទម្លាប់ប្រចាំថ្ងៃរបស់អ្នក។"
+    },
+    "p|385|all_label": {
+        "en": "All the products",
+        "km": "ផលិតផលទាំងអស់"
+    },
+    "p|386|title": {
+        "en": "Which format is right for me?",
+        "km": "តើទម្រង់មួយណាសមស្របសម្រាប់ខ្ញុំ?"
+    },
+    "p|386|text": {
+        "en": "<ul><li>Sachets mix easily into a little water.</li><li>Capsules are practical at home or on the go.</li></ul>",
+        "km": "<ul><li>កញ្ចប់ងាយស្រួលលាយជាមួយទឹកបន្តិច។</li><li>កាបស៊ុលងាយស្រួលប្រើនៅផ្ទះ ឬពេលធ្វើដំណើរ។</li></ul>"
+    },
+    "p|386|cta_label": {
+        "en": "Ask our Q&A",
+        "km": "មើលសំណួរ និងចម្លើយ"
+    },
+    "p|387|title": {
+        "en": "When can {brand} help?",
+        "km": "តើ {brand} អាចជួយបាននៅពេលណា?"
+    },
+    "p|387|items.0.title": {
+        "en": "Acute infectious diarrhoea in adults and children",
+        "km": "រាគរូសស្រួចស្រាវបណ្តាលមកពីការឆ្លងមេរោគ ចំពោះមនុស្សពេញវ័យ និងកុមារ"
+    },
+    "p|387|items.1.title": {
+        "en": "Antibiotic-associated colitis and diarrhoea",
+        "km": "ការរលាកពោះវៀនធំ និងរាគរូស ដែលទាក់ទងនឹងថ្នាំអង់ទីប៊ីយោទិក"
+    },
+    "p|387|items.2.title": {
+        "en": "Preventing <em>Clostridium difficile</em> recurrence, with vancomycin/<wbr>metronidazole",
+        "km": "ការការពារការកើតឡើងវិញនៃ <em>Clostridium difficile</em> រួមជាមួយថ្នាំ vancomycin/<wbr>metronidazole"
+    },
+    "p|387|items.3.title": {
+        "en": "Tube-feeding associated diarrhoea",
+        "km": "រាគរូសដែលទាក់ទងនឹងការផ្តល់អាហារតាមបំពង់"
+    },
+    "p|387|items.4.title": {
+        "en": "Irritable bowel syndrome",
+        "km": "រោគសញ្ញាពោះវៀនរំខាន (IBS)"
+    },
+    "p|388|cards.0.title": {
+        "en": "Your gut microbiota, your health",
+        "km": "មីក្រូប៊ីយ៉ូតាពោះវៀន សុខភាពរបស់អ្នក"
+    },
+    "p|388|cards.0.text": {
+        "en": "How the microbes in your gut influence digestion, immunity and more.",
+        "km": "របៀបដែលមីក្រូសារពាង្គកាយក្នុងពោះវៀនរបស់អ្នកជះឥទ្ធិពលលើការរំលាយអាហារ ប្រព័ន្ធភាពស៊ាំ និងច្រើនទៀត។"
+    },
+    "p|388|cards.0.cta_label": {
+        "en": "Explore",
+        "km": "ស្វែងយល់"
+    },
+    "p|388|cards.1.title": {
+        "en": "Meet the yeast behind {brand}",
+        "km": "ស្គាល់មេដំបែនៅពីក្រោយ {brand}"
+    },
+    "p|388|cards.1.text": {
+        "en": "Discover <em>Saccharomyces boulardii</em> CNCM I-745 and how it helps keep your gut microbiota in balance.",
+        "km": "ស្វែងយល់ពី <em>Saccharomyces boulardii</em> CNCM I-745 និងរបៀបដែលវាជួយរក្សាតុល្យភាពមីក្រូប៊ីយ៉ូតាពោះវៀនរបស់អ្នក។"
+    },
+    "p|388|cards.1.cta_label": {
+        "en": "Discover",
+        "km": "ស្វែងរក"
+    },
+    "p|389|label_show": {
+        "en": "See all references",
+        "km": "មើលឯកសារយោងទាំងអស់"
+    },
+    "p|389|label_hide": {
+        "en": "Hide references",
+        "km": "លាក់ឯកសារយោង"
+    },
+    "p|389|body": {
+        "en": "<p>(1) Add the approved reference for claim 1 on this page.</p><p>(2) Add the approved reference for claim 2 on this page.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 1 នៅលើទំព័រនេះ។</p><p>(2) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 2 នៅលើទំព័រនេះ។</p>"
+    },
+    "p|401|title": {
+        "en": "Our uniqueness",
+        "km": "ភាពពិសេសរបស់យើង"
+    },
+    "p|402|title": {
+        "en": "Our uniqueness",
+        "km": "ភាពពិសេសរបស់យើង"
+    },
+    "p|402|subtitle": {
+        "en": "A probiotic yeast, studied for decades, that works differently from bacterial probiotics.",
+        "km": "មេដំបែប្រូបាយអូទិកដែលត្រូវបានសិក្សាអស់ជាច្រើនទសវត្សរ៍ ដែលដំណើរការខុសពីប្រូបាយអូទិកបាក់តេរី។"
+    },
+    "p|402|width": {
+        "en": "md",
+        "km": "md"
+    },
+    "p|403|title": {
+        "en": "What makes our yeast different",
+        "km": "អ្វីដែលធ្វើឱ្យមេដំបែរបស់យើងខុសប្លែក"
+    },
+    "p|403|items.0.title": {
+        "en": "A yeast, not a bacterium",
+        "km": "មេដំបែ មិនមែនបាក់តេរី"
+    },
+    "p|403|items.0.text": {
+        "en": "A different kind of probiotic, with its own way of working.<sup>1</sup>",
+        "km": "ប្រូបាយអូទិកប្រភេទផ្សេង ដែលមានរបៀបដំណើរការផ្ទាល់ខ្លួន។<sup>1</sup>"
+    },
+    "p|403|items.1.title": {
+        "en": "A well-studied strain",
+        "km": "ពូជដែលត្រូវបានសិក្សាយ៉ាងច្រើន"
+    },
+    "p|403|items.1.text": {
+        "en": "Backed by a large body of clinical research.<sup>2</sup>",
+        "km": "គាំទ្រដោយការស្រាវជ្រាវគ្លីនិកយ៉ាងទូលំទូលាយ។<sup>2</sup>"
+    },
+    "p|403|items.2.title": {
+        "en": "Pharmaceutical quality",
+        "km": "គុណភាពឱសថ"
+    },
+    "p|403|items.2.text": {
+        "en": "Every batch produced to the same specification.",
+        "km": "ផលិតកម្មនីមួយៗត្រូវបានផលិតតាមលក្ខណៈបច្ចេកទេសដូចគ្នា។"
+    },
+    "p|403|items.3.title": {
+        "en": "Decades of use",
+        "km": "ការប្រើប្រាស់ជាច្រើនទសវត្សរ៍"
+    },
+    "p|403|items.3.text": {
+        "en": "Trusted by families in many countries.<sup>3</sup>",
+        "km": "ត្រូវបានទុកចិត្តដោយគ្រួសារនៅក្នុងប្រទេសជាច្រើន។<sup>3</sup>"
+    },
+    "p|404|html": {
+        "en": "<h2>A unique probiotic yeast strain</h2><p><em>Saccharomyces boulardii</em> CNCM I-745 is a specific strain. Its properties are tied to that strain, which is why the full name matters.</p><p><a class=\"btn btn--pink\" href=\"a-unique-probiotic-yeast-strain.html\">Read more</a></p>",
+        "km": "<h2>ពូជមេដំបែប្រូបាយអូទិកតែមួយគត់</h2><p><em>Saccharomyces boulardii</em> CNCM I-745 គឺជាពូជជាក់លាក់មួយ។ លក្ខណៈសម្បត្តិរបស់វាភ្ជាប់ទៅនឹងពូជនោះ ដែលជាហេតុធ្វើឱ្យឈ្មោះពេញមានសារៈសំខាន់។</p><p><a class=\"btn btn--pink\" href=\"a-unique-probiotic-yeast-strain.html\">អានបន្ថែម</a></p>"
+    },
+    "p|405|title": {
+        "en": "How {brand} helps",
+        "km": "របៀបដែល {brand} ជួយ"
+    },
+    "p|405|intro": {
+        "en": "Situations where a probiotic yeast can support your gut.",
+        "km": "ស្ថានភាពដែលមេដំបែប្រូបាយអូទិកអាចគាំទ្រពោះវៀនរបស់អ្នក។"
+    },
+    "p|406|label_show": {
+        "en": "See all references",
+        "km": "មើលឯកសារយោងទាំងអស់"
+    },
+    "p|406|label_hide": {
+        "en": "Hide references",
+        "km": "លាក់ឯកសារយោង"
+    },
+    "p|406|body": {
+        "en": "<p>(1) Add the approved reference for claim 1 on this page.</p><p>(2) Add the approved reference for claim 2 on this page.</p><p>(3) Add the approved reference for claim 3 on this page.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 1 នៅលើទំព័រនេះ។</p><p>(2) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 2 នៅលើទំព័រនេះ។</p><p>(3) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត សម្រាប់ការអះអាងទី 3 នៅលើទំព័រនេះ។</p>"
+    },
+    "p|390|title": {
+        "en": "How {product} works",
+        "km": "របៀបដែល {product} ដំណើរការ"
+    },
+    "p|390|text": {
+        "en": "<p>{product} contains <em>Saccharomyces boulardii</em> CNCM I-745, a probiotic yeast that helps restore the balance of the gut microbiota.<sup>1</sup></p>",
+        "km": "<p>{product} មាន <em>Saccharomyces boulardii</em> CNCM I-745 ដែលជាមេដំបែប្រូបាយអូទិក ជួយស្តារតុល្យភាពមីក្រូប៊ីយ៉ូតាពោះវៀន។<sup>1</sup></p>"
+    },
+    "p|390|cta_label": {
+        "en": "Discover more",
+        "km": "ស្វែងយល់បន្ថែម"
+    },
+    "p|391|title": {
+        "en": "Why choose a probiotic yeast?",
+        "km": "ហេតុអ្វីជ្រើសរើសមេដំបែប្រូបាយអូទិក?"
+    },
+    "p|391|intro": {
+        "en": "Four reasons to choose <em>Saccharomyces boulardii</em> CNCM I-745.",
+        "km": "ហេតុផលបួនយ៉ាងដើម្បីជ្រើសរើស <em>Saccharomyces boulardii</em> CNCM I-745។"
+    },
+    "p|391|items.0.title": {
+        "en": "Efficacy",
+        "km": "ប្រសិទ្ធភាព"
+    },
+    "p|391|items.0.text": {
+        "en": "Studied in many clinical trials.<sup>2</sup>",
+        "km": "ត្រូវបានសិក្សាក្នុងការសាកល្បងគ្លីនិកជាច្រើន។<sup>2</sup>"
+    },
+    "p|391|items.1.title": {
+        "en": "Safety",
+        "km": "សុវត្ថិភាព"
+    },
+    "p|391|items.1.text": {
+        "en": "Used by millions of people around the world.<sup>3</sup>",
+        "km": "ត្រូវបានប្រើដោយមនុស្សរាប់លាននាក់ទូទាំងពិភពលោក។<sup>3</sup>"
+    },
+    "p|391|items.2.title": {
+        "en": "Quality",
+        "km": "គុណភាព"
+    },
+    "p|391|items.2.text": {
+        "en": "Made to pharmaceutical quality standards.",
+        "km": "ផលិតតាមស្តង់ដារគុណភាពឱសថ។"
+    },
+    "p|391|items.3.title": {
+        "en": "Recognised",
+        "km": "ទទួលស្គាល់"
+    },
+    "p|391|items.3.text": {
+        "en": "Cited in international recommendations.<sup>4</sup>",
+        "km": "ត្រូវបានលើកឡើងក្នុងអនុសាសន៍អន្តរជាតិ។<sup>4</sup>"
+    },
+    "p|392|title": {
+        "en": "Discover our other products",
+        "km": "ស្វែងយល់ពីផលិតផលផ្សេងទៀតរបស់យើង"
+    },
+    "p|392|text": {
+        "en": "The same probiotic yeast in another format for your routine.",
+        "km": "មេដំបែប្រូបាយអូទិកដូចគ្នា ក្នុងទម្រង់មួយទៀតសម្រាប់ទម្លាប់របស់អ្នក។"
+    },
+    "p|392|cta_label": {
+        "en": "See all products",
+        "km": "មើលផលិតផលទាំងអស់"
+    },
+    "p|393|all_label": {
+        "en": "All the products",
+        "km": "ផលិតផលទាំងអស់"
+    },
+    "p|394|title": {
+        "en": "What's new in gut health?",
+        "km": "មានអ្វីថ្មីខ្លះអំពីសុខភាពពោះវៀន?"
+    },
+    "p|394|intro": {
+        "en": "Fresh tips and discoveries for keeping your gut microbiota healthy.",
+        "km": "គន្លឹះ និងការរកឃើញថ្មីៗ ដើម្បីរក្សាមីក្រូប៊ីយ៉ូតាពោះវៀនឱ្យមានសុខភាពល្អ។"
+    },
+    "p|394|cta_label": {
+        "en": "Our latest news",
+        "km": "ព័ត៌មានថ្មីៗរបស់យើង"
+    }
+}

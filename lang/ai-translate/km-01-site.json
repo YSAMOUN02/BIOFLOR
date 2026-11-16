@@ -1,0 +1,382 @@
+{
+    "s|site.title": {
+        "en": "{brand} | Official site",
+        "km": "{brand} | គេហទំព័រផ្លូវការ"
+    },
+    "s|site.meta_description": {
+        "en": "Probiotic yeast for everyday gut health: discover the {brand} range, gut health advice and where to buy.",
+        "km": "មេដំបែប្រូបាយអូទិកសម្រាប់ថែរក្សាសុខភាពពោះវៀនប្រចាំថ្ងៃ៖ ស្វែងយល់ពីផលិតផល {brand} ដំបូន្មានស្តីពីសុខភាពពោះវៀន និងទីកន្លែងដែលអាចទិញបាន។"
+    },
+    "s|header.where_to_buy": {
+        "en": "Where to buy",
+        "km": "កន្លែងទិញ"
+    },
+    "s|header.search_placeholder": {
+        "en": "Search (keywords, etc.)",
+        "km": "ស្វែងរក (ពាក្យគន្លឹះ។ល។)"
+    },
+    "s|distributor.address1": {
+        "en": "No.138 Bis, Russian Federation Boulevard (St.110)",
+        "km": "ផ្ទះលេខ 138 Bis មហាវិថីសហព័ន្ធរុស្ស៊ី (ផ្លូវលេខ 110)"
+    },
+    "s|distributor.address2": {
+        "en": "Phum Prey Chisak, Sangkat Chom Chao 3, Khan Porsenchey, Phnom Penh, Cambodia",
+        "km": "ភូមិព្រៃជីសាក់ សង្កាត់ចោមចៅទី3 ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ ព្រះរាជាណាចក្រកម្ពុជា"
+    },
+    "s|social.title": {
+        "en": "Stay tuned",
+        "km": "តាមដានព័ត៌មានថ្មីៗ"
+    },
+    "s|newsletter.title": {
+        "en": "Our newsletter",
+        "km": "ព្រឹត្តិបត្រព័ត៌មាន"
+    },
+    "s|newsletter.text": {
+        "en": "Gut health tips, news about {brand} and simple ideas for looking after your gut microbiota, straight to your inbox.",
+        "km": "ទទួលបានគន្លឹះថែរក្សាសុខភាពពោះវៀន ព័ត៌មានថ្មីៗអំពី {brand} និងវិធីងាយៗក្នុងការថែរក្សាមីក្រូប៊ីយ៉ូតាពោះវៀន តាមរយៈអ៊ីមែលរបស់អ្នក។"
+    },
+    "s|newsletter.consent": {
+        "en": "Your email address is only used to send you our newsletter. You can unsubscribe at any time with the link in every email. Read our data protection policy.",
+        "km": "អាសយដ្ឋានអ៊ីមែលរបស់អ្នកនឹងត្រូវប្រើសម្រាប់ផ្ញើព្រឹត្តិបត្រព័ត៌មានរបស់យើងប៉ុណ្ណោះ។ អ្នកអាចឈប់ជាវបានគ្រប់ពេល ដោយចុចតំណភ្ជាប់នៅក្នុងអ៊ីមែលនីមួយៗ។ សូមអានគោលការណ៍ការពារទិន្នន័យរបស់យើង។"
+    },
+    "s|newsletter.success_title": {
+        "en": "You're in! Thanks for subscribing to our newsletter.",
+        "km": "អ្នកបានជាវរួចរាល់ហើយ! សូមអរគុណដែលបានជាវព្រឹត្តិបត្រព័ត៌មានរបស់យើង។"
+    },
+    "s|newsletter.success_text": {
+        "en": "Look out for gut-friendly tips and the latest {brand} news in your inbox.",
+        "km": "សូមពិនិត្យប្រអប់អ៊ីមែលរបស់អ្នក ដើម្បីទទួលបានគន្លឹះថែរក្សាសុខភាពពោះវៀន និងព័ត៌មានថ្មីៗអំពី {brand}។"
+    },
+    "s|newsletter.popup_title": {
+        "en": "Newsletter",
+        "km": "ព្រឹត្តិបត្រព័ត៌មាន"
+    },
+    "t|NavItem|46|label": {
+        "en": "Our products",
+        "km": "ផលិតផលរបស់យើង"
+    },
+    "t|NavItem|46|description": {
+        "en": "Discover the {brand} probiotic yeast range.",
+        "km": "ស្វែងយល់ពីផលិតផលមេដំបែប្រូបាយអូទិក {brand}។"
+    },
+    "t|NavItem|46|cta_label": {
+        "en": "Discover our range",
+        "km": "ស្វែងយល់ពីផលិតផលទាំងអស់"
+    },
+    "t|NavItem|47|label": {
+        "en": "Bioflor® 250mg Sachets",
+        "km": "Bioflor® 250mg កញ្ចប់"
+    },
+    "t|NavItem|48|label": {
+        "en": "Bioflor® 250mg Capsules",
+        "km": "Bioflor® 250mg កាបស៊ុល"
+    },
+    "t|NavItem|49|label": {
+        "en": "Gut health",
+        "km": "សុខភាពពោះវៀន"
+    },
+    "t|NavItem|50|label": {
+        "en": "Our uniqueness",
+        "km": "ភាពពិសេសរបស់យើង"
+    },
+    "t|NavItem|51|label": {
+        "en": "Our news",
+        "km": "ព័ត៌មានរបស់យើង"
+    },
+    "t|NavItem|52|label": {
+        "en": "About us",
+        "km": "អំពីយើង"
+    },
+    "t|Category|1|name": {
+        "en": "Our products",
+        "km": "ផលិតផលរបស់យើង"
+    },
+    "t|Category|1|description": {
+        "en": "The full probiotic yeast range.",
+        "km": "ផលិតផលមេដំបែប្រូបាយអូទិកទាំងអស់។"
+    },
+    "t|Category|2|name": {
+        "en": "Capsules",
+        "km": "កាបស៊ុល"
+    },
+    "t|Category|3|name": {
+        "en": "Sachets",
+        "km": "កញ្ចប់"
+    },
+    "t|Category|4|name": {
+        "en": "Sticks",
+        "km": "ស្ទីក"
+    },
+    "t|Category|5|name": {
+        "en": "Vials",
+        "km": "ដប"
+    },
+    "t|Category|6|name": {
+        "en": "Drops",
+        "km": "ដំណក់"
+    },
+    "t|ProductAttribute|1|name": {
+        "en": "Tagline",
+        "km": "ឃ្លាពិពណ៌នាផលិតផល"
+    },
+    "t|ProductAttribute|2|name": {
+        "en": "Tile badge",
+        "km": "ស្លាកសម្គាល់ផលិតផល"
+    },
+    "t|ProductAttribute|2|help": {
+        "en": "Short ribbon on the product tile, e.g. \"New\".",
+        "km": "អត្ថបទខ្លីសម្រាប់បង្ហាញលើផ្ទាំងផលិតផល ឧទាហរណ៍ «ថ្មី»។"
+    },
+    "t|ProductAttribute|3|name": {
+        "en": "Dosage form",
+        "km": "ទម្រង់ឱសថ"
+    },
+    "t|ProductAttribute|4|name": {
+        "en": "Pack size",
+        "km": "ទំហំកញ្ចប់"
+    },
+    "t|ProductAttribute|4|help": {
+        "en": "As printed on the pack, e.g. \"20 sachets\".",
+        "km": "បង្ហាញតាមអ្វីដែលបានបោះពុម្ពលើសំបកវេចខ្ចប់ ឧទាហរណ៍ «20 កញ្ចប់»។"
+    },
+    "t|ProductAttribute|5|name": {
+        "en": "Suitable for",
+        "km": "សមស្របសម្រាប់"
+    },
+    "t|ProductAttribute|5|help": {
+        "en": "Approved age wording, e.g. \"Adults & children\".",
+        "km": "ពាក្យបញ្ជាក់ក្រុមអាយុដែលបានអនុម័ត ឧទាហរណ៍ «មនុស្សពេញវ័យ និងកុមារ»។"
+    },
+    "t|ProductAttribute|6|name": {
+        "en": "Long description",
+        "km": "ការពិពណ៌នាលម្អិត"
+    },
+    "t|ProductAttribute|7|name": {
+        "en": "Dosage",
+        "km": "កម្រិតប្រើ"
+    },
+    "t|ProductAttribute|8|name": {
+        "en": "Ingredients",
+        "km": "គ្រឿងផ្សំ"
+    },
+    "t|ProductAttribute|9|name": {
+        "en": "Pack colour",
+        "km": "ពណ៌សំបកវេចខ្ចប់"
+    },
+    "t|ProductAttribute|9|help": {
+        "en": "Accent of the generated pack shot.",
+        "km": "ពណ៌សង្កត់សម្រាប់រូបភាពសំបកវេចខ្ចប់ដែលបានបង្កើត។"
+    },
+    "t|ProductAttribute|10|name": {
+        "en": "Legal status",
+        "km": "ស្ថានភាពច្បាប់"
+    },
+    "t|ProductAttribute|11|name": {
+        "en": "No GMO",
+        "km": "គ្មាន GMO"
+    },
+    "t|ProductAttribute|12|name": {
+        "en": "Gluten free",
+        "km": "គ្មានគ្លុយតែន"
+    },
+    "t|ProductAttribute|13|name": {
+        "en": "Vegetarian",
+        "km": "សម្រាប់អ្នកបួស"
+    },
+    "t|ProductAttribute|14|name": {
+        "en": "Lactose free",
+        "km": "គ្មានឡាក់តូស"
+    },
+    "t|ProductAttribute|15|name": {
+        "en": "Strength",
+        "km": "កម្រិតជាតិឱសថ"
+    },
+    "t|ProductAttribute|16|name": {
+        "en": "Active ingredient",
+        "km": "សារធាតុសកម្ម"
+    },
+    "t|ProductAttribute|17|name": {
+        "en": "Units per pack",
+        "km": "ចំនួនក្នុងមួយកញ្ចប់"
+    },
+    "t|ProductAttribute|18|name": {
+        "en": "Indications",
+        "km": "ការចង្អុលបង្ហាញ"
+    },
+    "t|ProductAttribute|18|help": {
+        "en": "One indication per line (approved wording).",
+        "km": "សរសេរការចង្អុលបង្ហាញមួយក្នុងមួយបន្ទាត់ ដោយប្រើពាក្យដែលបានអនុម័ត។"
+    },
+    "t|ProductAttribute|19|name": {
+        "en": "Precautions for use",
+        "km": "ការប្រុងប្រយ័ត្នក្នុងការប្រើប្រាស់"
+    },
+    "t|ProductAttribute|20|name": {
+        "en": "Storage",
+        "km": "ការរក្សាទុក"
+    },
+    "t|ProductAttribute|21|name": {
+        "en": "How to use",
+        "km": "របៀបប្រើប្រាស់"
+    },
+    "t|ProductAttribute|21|help": {
+        "en": "One step per line. Optional icon prefix: [pour] [mix] [drink] [swallow] [shake] [drops].",
+        "km": "សរសេរជំហានមួយក្នុងមួយបន្ទាត់។ អាចដាក់កូដរូបតំណាងនៅខាងមុខបាន៖ [pour] [mix] [drink] [swallow] [shake] [drops]។"
+    },
+    "t|ProductAttribute|22|name": {
+        "en": "How it works (text)",
+        "km": "របៀបដែលវាមានសកម្មភាព (អត្ថបទ)"
+    },
+    "t|ProductAttribute|22|help": {
+        "en": "Overrides the shared \"How it works\" text on this product page.",
+        "km": "ប្រើអត្ថបទនេះជំនួសអត្ថបទ «របៀបដែលវាមានសកម្មភាព» ដែលប្រើរួម នៅលើទំព័រផលិតផលនេះ។"
+    },
+    "t|ProductAttribute|23|name": {
+        "en": "References",
+        "km": "ឯកសារយោង"
+    },
+    "t|ProductAttribute|23|help": {
+        "en": "Numbered references shown under \"See all references\".",
+        "km": "ឯកសារយោងដែលមានលេខរៀង បង្ហាញនៅក្រោម «មើលឯកសារយោងទាំងអស់»។"
+    },
+    "t|ProductAttribute|24|name": {
+        "en": "Registration number",
+        "km": "លេខចុះបញ្ជី"
+    },
+    "t|ProductAttribute|25|name": {
+        "en": "Barcode (GTIN)",
+        "km": "លេខកូដបារកូដ (GTIN)"
+    },
+    "t|Page|1|title": {
+        "en": "About us",
+        "km": "អំពីយើង"
+    },
+    "t|Page|1|subtitle": {
+        "en": "Bioflor® is a probiotic brand developed by Biocodex and distributed in Cambodia by PPM.",
+        "km": "Bioflor® ជាម៉ាកផលិតផលប្រូបាយអូទិកដែលបង្កើតឡើងដោយ Biocodex និងចែកចាយនៅកម្ពុជាដោយ PPM Pharma។"
+    },
+    "t|Page|1|meta_description": {
+        "en": "Bioflor® is a probiotic brand developed by Biocodex, a French pharmaceutical company specializing in microbiota health, and distributed in Cambodia by PPM.",
+        "km": "Bioflor® ជាម៉ាកផលិតផលប្រូបាយអូទិកដែលបង្កើតឡើងដោយ Biocodex ជាក្រុមហ៊ុនឱសថបារាំងដែលមានជំនាញផ្នែកសុខភាពមីក្រូប៊ីយ៉ូតា និងចែកចាយនៅកម្ពុជាដោយ PPM Pharma។"
+    },
+    "t|Page|3|title": {
+        "en": "Data protection",
+        "km": "ការការពារទិន្នន័យ"
+    },
+    "t|Page|3|subtitle": {
+        "en": "What we collect, why, and the rights you can exercise.",
+        "km": "ស្វែងយល់ថាយើងប្រមូលទិន្នន័យអ្វីខ្លះ ហេតុអ្វីបានជាប្រមូល និងសិទ្ធិដែលអ្នកអាចប្រើប្រាស់បាន។"
+    },
+    "t|Page|3|meta_description": {
+        "en": "How personal data is handled on this website.",
+        "km": "ព័ត៌មានអំពីរបៀបប្រមូល និងប្រើប្រាស់ទិន្នន័យផ្ទាល់ខ្លួននៅលើគេហទំព័រនេះ។"
+    },
+    "t|Page|4|title": {
+        "en": "Cookies settings",
+        "km": "ការកំណត់ខូឃី"
+    },
+    "t|Page|4|subtitle": {
+        "en": "Choose which categories of cookies this site may use.",
+        "km": "ជ្រើសរើសប្រភេទខូឃីដែលគេហទំព័រនេះអាចប្រើប្រាស់បាន។"
+    },
+    "t|Page|4|meta_description": {
+        "en": "Manage cookie preferences for this website.",
+        "km": "គ្រប់គ្រងចំណូលចិត្តអំពីការប្រើខូឃីនៅលើគេហទំព័រនេះ។"
+    },
+    "t|Page|5|title": {
+        "en": "Accessibility assessment",
+        "km": "ការវាយតម្លៃភាពងាយស្រួលប្រើប្រាស់"
+    },
+    "t|Page|5|subtitle": {
+        "en": "Our current conformance position and the work still outstanding.",
+        "km": "ស្ថានភាពនៃការអនុលោមតាមស្តង់ដារបច្ចុប្បន្ន និងការងារដែលនៅត្រូវបំពេញ។"
+    },
+    "t|Page|5|meta_description": {
+        "en": "Accessibility conformance statement for this website.",
+        "km": "សេចក្តីថ្លែងការណ៍អំពីការអនុលោមតាមស្តង់ដារភាពងាយស្រួលប្រើប្រាស់របស់គេហទំព័រនេះ។"
+    },
+    "t|Page|7|title": {
+        "en": "Terms of use",
+        "km": "លក្ខខណ្ឌប្រើប្រាស់"
+    },
+    "t|Page|7|subtitle": {
+        "en": "The conditions that apply when you use this website.",
+        "km": "លក្ខខណ្ឌដែលត្រូវអនុវត្តនៅពេលអ្នកប្រើប្រាស់គេហទំព័រនេះ។"
+    },
+    "t|Page|7|meta_description": {
+        "en": "Terms governing use of this website.",
+        "km": "លក្ខខណ្ឌដែលគ្រប់គ្រងការប្រើប្រាស់គេហទំព័រនេះ។"
+    },
+    "t|Page|8|title": {
+        "en": "Our products",
+        "km": "ផលិតផលរបស់យើង"
+    },
+    "t|Page|8|meta_description": {
+        "en": "The {brand} probiotic yeast range: sachets and capsules.",
+        "km": "ផលិតផលមេដំបែប្រូបាយអូទិក {brand} មានទម្រង់ជាកញ្ចប់ម្សៅ និងកាបស៊ុល។"
+    },
+    "t|Page|9|title": {
+        "en": "Gut health",
+        "km": "សុខភាពពោះវៀន"
+    },
+    "t|Page|9|meta_description": {
+        "en": "Understand your gut microbiota and how to look after it.",
+        "km": "ស្វែងយល់ពីមីក្រូប៊ីយ៉ូតាពោះវៀនរបស់អ្នក និងរបៀបថែរក្សាវា។"
+    },
+    "t|Page|10|title": {
+        "en": "Our uniqueness",
+        "km": "ភាពពិសេសរបស់យើង"
+    },
+    "t|Page|10|meta_description": {
+        "en": "What makes a probiotic yeast different, and the science behind it.",
+        "km": "អ្វីដែលធ្វើឱ្យប្រូបាយអូទិកប្រភេទមេដំបែមានលក្ខណៈខុសប្លែក និងមូលដ្ឋានវិទ្យាសាស្ត្រដែលគាំទ្រផលិតផលនេះ។"
+    },
+    "t|Page|11|title": {
+        "en": "Our news",
+        "km": "ព័ត៌មានរបស់យើង"
+    },
+    "t|Page|11|meta_description": {
+        "en": "News, seasonal advice and research highlights.",
+        "km": "ព័ត៌មាន ដំបូន្មានតាមរដូវកាល និងចំណុចសំខាន់ៗនៃការស្រាវជ្រាវ។"
+    },
+    "t|Page|12|title": {
+        "en": "All news",
+        "km": "ព័ត៌មានទាំងអស់"
+    },
+    "t|Page|12|meta_description": {
+        "en": "Gut health tips, product news and research from {brand}: every article in one place, newest first.",
+        "km": "គន្លឹះថែរក្សាសុខភាពពោះវៀន ព័ត៌មានអំពីផលិតផល និងការស្រាវជ្រាវពី {brand}។ អត្ថបទទាំងអស់ត្រូវបានប្រមូលនៅទីនេះ ដោយបង្ហាញអត្ថបទថ្មីបំផុតមុន។"
+    },
+    "t|Page|13|title": {
+        "en": "Q&A",
+        "km": "សំណួរ-ចម្លើយ"
+    },
+    "t|Page|13|meta_description": {
+        "en": "Answers to common questions about probiotics and the {brand} range.",
+        "km": "ចម្លើយចំពោះសំណួរទូទៅអំពីប្រូបាយអូទិក និងផលិតផល {brand}។"
+    },
+    "t|Page|14|title": {
+        "en": "Contact us",
+        "km": "ទាក់ទងមកយើង"
+    },
+    "t|Page|14|meta_description": {
+        "en": "Questions about our products? Send us a message.",
+        "km": "មានសំណួរអំពីផលិតផលរបស់យើងមែនទេ? ផ្ញើសារមកយើង។"
+    },
+    "t|Page|15|title": {
+        "en": "Where to buy",
+        "km": "កន្លែងលក់"
+    },
+    "t|Page|15|meta_description": {
+        "en": "Pharmacies and online partners selling {brand}.",
+        "km": "ឱសថស្ថាន និងដៃគូអនឡាញដែលលក់ {brand}។"
+    },
+    "t|Page|16|title": {
+        "en": "Gut health quiz",
+        "km": "សំណួរអំពីសុខភាពពោះវៀន"
+    },
+    "t|Page|16|meta_description": {
+        "en": "A short quiz to learn more about your gut microbiota.",
+        "km": "កម្រងសំណួរខ្លីៗ ដើម្បីស្វែងយល់បន្ថែមអំពីមីក្រូប៊ីយ៉ូតាពោះវៀនរបស់អ្នក។"
+    }
+}

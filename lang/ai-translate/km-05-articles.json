@@ -1,0 +1,58 @@
+{
+    "t|Article|30|body": {
+        "en": "<h2>Strain specificity, again</h2><p>The recurring message from clinical sessions is that evidence attaches to strains, not to categories. Grouping all probiotics together is the most common error in public communication.</p><h2>Better trials, slowly</h2><p>Sample sizes and endpoint definitions continue to improve, which makes meta-analysis more useful than it was a decade ago.</p>",
+        "km": "<h2>សារៈសំខាន់នៃភាពជាក់លាក់នៃពូជមីក្រូសរីរាង្គ</h2><p>សារសំខាន់ដែលតែងតែត្រូវបានលើកឡើងក្នុងការពិភាក្សាផ្នែកគ្លីនិក គឺថា ភស្តុតាងវិទ្យាសាស្ត្រត្រូវបានកំណត់ចំពោះពូជមីក្រូសរីរាង្គនីមួយៗ មិនមែនចំពោះក្រុមប្រភេទទាំងមូលនោះទេ។ ការចាត់ទុកប្រូបាយអូទិកទាំងអស់ថាមានលក្ខណៈដូចគ្នា គឺជាកំហុសដែលជួបញឹកញាប់បំផុតក្នុងការផ្សព្វផ្សាយព័ត៌មានជាសាធារណៈ។</p><h2>ការសិក្សាសាកល្បងកាន់តែប្រសើរឡើងជាបន្តបន្ទាប់</h2><p>ទំហំគំរូសិក្សា និងនិយមន័យនៃសូចនាករលទ្ធផល កំពុងត្រូវបានកែលម្អជាបន្តបន្ទាប់ ដែលធ្វើឱ្យការវិភាគមេតាមានប្រយោជន៍ជាងកាលពីមួយទសវត្សរ៍មុន។</p>"
+    },
+    "t|Article|30|references": {
+        "en": "<p>(1) Add the approved reference supporting the claims in this article.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត ដើម្បីគាំទ្រការអះអាងក្នុងអត្ថបទនេះ។</p>"
+    },
+    "t|Article|31|title": {
+        "en": "Travelling with a sensitive gut",
+        "km": "ការធ្វើដំណើរនៅពេលប្រព័ន្ធរំលាយអាហារងាយរងការរំខាន"
+    },
+    "t|Article|31|excerpt": {
+        "en": "Simple preparation for trips: water, food hygiene and what to pack in your bag.",
+        "km": "ការរៀបចំងាយៗមុនពេលធ្វើដំណើរ៖ ទឹកស្អាត អនាម័យចំណីអាហារ និងសម្ភារៈដែលគួរដាក់តាមខ្លួន។"
+    },
+    "t|Article|31|body": {
+        "en": "<h2>Before you leave</h2><p>Pack oral rehydration salts, keep a bottle of safe water within reach and plan how you will wash your hands on the go.</p><h2>On the way</h2><ul><li>Choose freshly cooked food served hot.</li><li>Peel fruit yourself.</li><li>Ask a pharmacist for advice that suits your destination.</li></ul>",
+        "km": "<h2>មុនពេលចេញដំណើរ</h2><p>សូមត្រៀមអំបិលរ៉ែសម្រាប់លាយជាដំណោះស្រាយផឹកបង្គ្រប់ជាតិទឹក រក្សាទឹកស្អាតមួយដបឱ្យនៅជិតដៃ និងរៀបចំទុកជាមុនថាតើអ្នកនឹងលាងដៃដោយរបៀបណានៅពេលកំពុងធ្វើដំណើរ។</p><h2>ក្នុងពេលធ្វើដំណើរ</h2><ul><li>ជ្រើសរើសអាហារដែលទើបចម្អិនរួច និងបម្រើជូននៅពេលក្តៅ។</li><li>បកសំបកផ្លែឈើដោយខ្លួនឯង។</li><li>សុំយោបល់ពីឱសថការីអំពីការថែទាំសុខភាពដែលសមស្របនឹងគោលដៅធ្វើដំណើររបស់អ្នក។</li></ul>"
+    },
+    "t|Article|31|references": {
+        "en": "<p>(1) Add the approved reference supporting the claims in this article.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត ដើម្បីគាំទ្រការអះអាងក្នុងអត្ថបទនេះ។</p>"
+    },
+    "t|Article|32|title": {
+        "en": "Fibre on your plate: an easy weekly plan",
+        "km": "ជាតិសរសៃក្នុងអាហារ៖ ផែនការងាយៗប្រចាំសប្តាហ៍"
+    },
+    "t|Article|32|excerpt": {
+        "en": "Small swaps that add variety of plants across a normal week.",
+        "km": "ការកែប្រែតិចតួចក្នុងការជ្រើសរើសអាហារ ដើម្បីបន្ថែមភាពចម្រុះនៃអាហារពីរុក្ខជាតិក្នុងមួយសប្តាហ៍ធម្មតា។"
+    },
+    "t|Article|32|body": {
+        "en": "<h2>Think variety</h2><p>Aim for many different plants over the week — grains, pulses, vegetables, fruit, nuts and seeds all count.</p><h2>Swaps that stick</h2><ul><li>Add a handful of beans to soups and salads.</li><li>Choose wholegrain rice or noodles some days.</li><li>Keep fruit visible on the table.</li></ul>",
+        "km": "<h2>ផ្តោតលើភាពចម្រុះ</h2><p>សូមព្យាយាមទទួលទានអាហារពីរុក្ខជាតិឱ្យបានច្រើនប្រភេទផ្សេងៗគ្នាក្នុងមួយសប្តាហ៍ ដូចជា ធញ្ញជាតិ គ្រាប់ធញ្ញជាតិមូល (ពពួកសណ្តែក) បន្លែ ផ្លែឈើ គ្រាប់ធញ្ញជាតិមានសំបក និងគ្រាប់ពូជ។ អាហារទាំងនេះសុទ្ធតែរាប់បញ្ចូលក្នុងភាពចម្រុះនៃអាហារពីរុក្ខជាតិ។</p><h2>ការកែប្រែតូចៗដែលអាចអនុវត្តបានជាប្រចាំ</h2><ul><li>បន្ថែមសណ្តែកមួយក្តាប់តូចទៅក្នុងស៊ុប និងសាឡាត់។</li><li>ជ្រើសរើសបាយ ឬមីដែលធ្វើពីធញ្ញជាតិមិនចម្រាញ់នៅថ្ងៃខ្លះ។</li><li>ដាក់ផ្លែឈើនៅកន្លែងដែលងាយមើលឃើញលើតុ។</li></ul>"
+    },
+    "t|Article|32|references": {
+        "en": "<p>(1) Add the approved reference supporting the claims in this article.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត ដើម្បីគាំទ្រការអះអាងក្នុងអត្ថបទនេះ។</p>"
+    },
+    "t|Article|33|title": {
+        "en": "Sleep and your gut: why rhythm matters",
+        "km": "ការគេង និងសុខភាពពោះវៀន៖ ហេតុអ្វីចង្វាក់ប្រចាំថ្ងៃមានសារៈសំខាន់"
+    },
+    "t|Article|33|excerpt": {
+        "en": "Regular sleep supports the daily rhythm your digestion follows.",
+        "km": "ការគេងឱ្យបានទៀងទាត់ជួយរក្សាចង្វាក់ប្រចាំថ្ងៃនៃដំណើរការរំលាយអាហារ។"
+    },
+    "t|Article|33|body": {
+        "en": "<h2>A daily rhythm</h2><p>Digestion follows a daily cycle. Keeping similar sleep and meal times helps it stay regular.</p><h2>Small steps</h2><p>Try a consistent bedtime, a lighter late meal and some daylight in the morning.</p>",
+        "km": "<h2>ចង្វាក់ប្រចាំថ្ងៃ</h2><p>ដំណើរការរំលាយអាហារមានវដ្តប្រចាំថ្ងៃ។ ការរក្សាម៉ោងគេង និងម៉ោងទទួលទានអាហារឱ្យប្រហាក់ប្រហែលគ្នាជារៀងរាល់ថ្ងៃ អាចជួយឱ្យដំណើរការនេះមានភាពទៀងទាត់។</p><h2>ជំហានតូចៗ</h2><p>សាកល្បងចូលគេងនៅម៉ោងដដែលជាប្រចាំ ជ្រើសរើសអាហារពេលយប់ដែលស្រាលជាងមុន និងចំណាយពេលទទួលពន្លឺថ្ងៃនៅពេលព្រឹក។</p>"
+    },
+    "t|Article|33|references": {
+        "en": "<p>(1) Add the approved reference supporting the claims in this article.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័ត ដើម្បីគាំទ្រការអះអាងក្នុងអត្ថបទនេះ។</p>"
+    }
+}

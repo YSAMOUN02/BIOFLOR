@@ -1,0 +1,266 @@
+{
+    "t|Product|11111|name": {
+        "en": "Bioflor&reg; 250mg Sachets",
+        "km": "Bioflor&reg; 250mg កញ្ចប់"
+    },
+    "t|Product|11111|short_description": {
+        "en": "Probiotic yeast in single-dose sachets of powder, ready to mix into a little water.",
+        "km": "មេដំបែប្រូបាយអូទិកជាម្សៅក្នុងកញ្ចប់ដូសតែមួយ ដែលអាចលាយជាមួយទឹកបន្តិចបានភ្លាមៗ។"
+    },
+    "t|Product|11111|meta_description": {
+        "en": "Bioflor® 250mg Sachets — Saccharomyces boulardii CNCM I-745.",
+        "km": "Bioflor® 250mg កញ្ចប់ — Saccharomyces boulardii CNCM I-745។"
+    },
+    "t|Product|11118|name": {
+        "en": "Bioflor&reg; 250mg Capsules",
+        "km": "Bioflor&reg; 250mg កាបស៊ុល"
+    },
+    "t|Product|11118|short_description": {
+        "en": "Probiotic yeast capsules, easy to take at home or on the go.",
+        "km": "កាបស៊ុលមេដំបែប្រូបាយអូទិក ងាយស្រួលប្រើនៅផ្ទះ ឬពេលធ្វើដំណើរ។"
+    },
+    "t|Product|11118|meta_description": {
+        "en": "Bioflor® 250mg Capsules — Saccharomyces boulardii CNCM I-745.",
+        "km": "Bioflor® 250mg កាបស៊ុល — Saccharomyces boulardii CNCM I-745។"
+    },
+    "t|ProductFaq|77|question": {
+        "en": "How should I take Bioflor®?",
+        "km": "តើគួរប្រើ Bioflor® យ៉ាងដូចម្តេច?"
+    },
+    "t|ProductFaq|77|answer": {
+        "en": "Mix the sachet with water or food. Follow the recommended dosage.",
+        "km": "លាយម្សៅក្នុងកញ្ចប់ជាមួយទឹក ឬអាហារ។ ប្រើតាមកម្រិតដែលបានណែនាំ។"
+    },
+    "t|ProductFaq|78|question": {
+        "en": "Can I take Bioflor® with antibiotics?",
+        "km": "តើអាចប្រើ Bioflor® ជាមួយថ្នាំអង់ទីប៊ីយោទិកបានទេ?"
+    },
+    "t|ProductFaq|78|answer": {
+        "en": "Yes. Bioflor® contains a probiotic yeast that can be taken with most antibiotics.",
+        "km": "បាន។ Bioflor® មានផ្ទុកមេដំបែប្រូបាយអូទិក ដែលអាចប្រើរួមជាមួយថ្នាំអង់ទីប៊ីយោទិកភាគច្រើនបាន។"
+    },
+    "t|ProductFaq|79|question": {
+        "en": "Is Bioflor® suitable for children?",
+        "km": "តើ Bioflor® អាចប្រើសម្រាប់កុមារបានទេ?"
+    },
+    "t|ProductFaq|79|answer": {
+        "en": "Yes, for eligible age groups. Consult a doctor or pharmacist for appropriate use and dosage.",
+        "km": "អាចប្រើបានចំពោះកុមារក្នុងក្រុមអាយុដែលបានកំណត់។ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ឬឱសថការី អំពីការប្រើប្រាស់ និងកម្រិតប្រើឱ្យបានត្រឹមត្រូវ។"
+    },
+    "t|ProductFaq|80|question": {
+        "en": "What if diarrhea continues?",
+        "km": "តើគួរធ្វើដូចម្តេច ប្រសិនបើរាគរូសនៅតែបន្ត?"
+    },
+    "t|ProductFaq|80|answer": {
+        "en": "Consult a doctor if symptoms persist or worsen. Maintain adequate hydration.",
+        "km": "សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ប្រសិនបើរោគសញ្ញានៅតែបន្ត ឬកាន់តែធ្ងន់ធ្ងរ។ ត្រូវផឹកទឹកឱ្យបានគ្រប់គ្រាន់។"
+    },
+    "t|ProductFaq|81|question": {
+        "en": "How should I store Bioflor®?",
+        "km": "តើគួររក្សាទុក Bioflor® យ៉ាងដូចម្តេច?"
+    },
+    "t|ProductFaq|81|answer": {
+        "en": "Store in a cool, dry place according to the packaging instructions.",
+        "km": "រក្សាទុកនៅកន្លែងត្រជាក់ និងស្ងួត តាមការណែនាំនៅលើសំបកវេចខ្ចប់។"
+    },
+    "t|ProductFaq|82|question": {
+        "en": "How should I take Bioflor® 250 mg Capsules?",
+        "km": "តើគួរប្រើ Bioflor® 250 mg កាបស៊ុល យ៉ាងដូចម្តេច?"
+    },
+    "t|ProductFaq|82|answer": {
+        "en": "Swallow the capsule with water. Follow the recommended dosage or your healthcare professional’s advice.",
+        "km": "លេបកាបស៊ុលជាមួយទឹក។ ប្រើតាមកម្រិតដែលបានណែនាំ ឬតាមការណែនាំរបស់អ្នកជំនាញសុខាភិបាល។"
+    },
+    "t|ProductFaq|83|question": {
+        "en": "Can I take Bioflor® with antibiotics?",
+        "km": "តើអាចប្រើ Bioflor® ជាមួយថ្នាំអង់ទីប៊ីយោទិកបានទេ?"
+    },
+    "t|ProductFaq|83|answer": {
+        "en": "Yes. Bioflor® contains Saccharomyces boulardii CNCM I-745, a probiotic yeast that can be taken with most antibiotics.",
+        "km": "បាន។ Bioflor® មានផ្ទុក Saccharomyces boulardii CNCM I-745 ដែលជាមេដំបែប្រូបាយអូទិក ហើយអាចប្រើរួមជាមួយថ្នាំអង់ទីប៊ីយោទិកភាគច្រើនបាន។"
+    },
+    "t|ProductFaq|84|question": {
+        "en": "Is Bioflor® 250 mg suitable for children?",
+        "km": "តើ Bioflor® 250 mg អាចប្រើសម្រាប់កុមារបានទេ?"
+    },
+    "t|ProductFaq|84|answer": {
+        "en": "It may be suitable for children, depending on their age and ability to swallow capsules. Consult a doctor or pharmacist.",
+        "km": "វាអាចសមស្របសម្រាប់កុមារ ដោយអាស្រ័យលើអាយុ និងសមត្ថភាពក្នុងការលេបកាបស៊ុល។ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ឬឱសថការី។"
+    },
+    "t|ProductFaq|85|question": {
+        "en": "What should I do if symptoms continue?",
+        "km": "តើគួរធ្វើដូចម្តេច ប្រសិនបើរោគសញ្ញានៅតែបន្ត?"
+    },
+    "t|ProductFaq|85|answer": {
+        "en": "Consult a doctor if diarrhea persists, worsens, or is accompanied by fever, blood in the stool, or dehydration.",
+        "km": "សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ប្រសិនបើរាគរូសនៅតែបន្ត កាន់តែធ្ងន់ធ្ងរ ឬមានរោគសញ្ញារួមដូចជា គ្រុនក្តៅ មានឈាមក្នុងលាមក ឬខ្សោះជាតិទឹក។"
+    },
+    "t|ProductFaq|86|question": {
+        "en": "How should I store Bioflor®?",
+        "km": "តើត្រូវរក្សាទុក Bioflor® ដោយរបៀបណា?"
+    },
+    "t|ProductFaq|86|answer": {
+        "en": "Store in a cool, dry place according to the packaging instructions. Keep out of reach of children",
+        "km": "រក្សាទុកនៅកន្លែងត្រជាក់ និងស្ងួត តាមការណែនាំនៅលើសំបកវេចខ្ចប់។ ទុកឱ្យផុតពីដៃកុមារ។"
+    },
+    "t|ProductFaq|87|question": {
+        "en": "Who should avoid Bioflor®?",
+        "km": "តើអ្នកណាខ្លះមិនគួរប្រើ Bioflor®?"
+    },
+    "t|ProductFaq|87|answer": {
+        "en": "Patients with central venous catheters, critical illness, or compromised immunity should not use it.",
+        "km": "អ្នកជំងឺដែលមានបំពង់បញ្ចូលតាមសរសៃវ៉ែនកណ្តាល អ្នកជំងឺដែលមានស្ថានភាពធ្ងន់ធ្ងរ ឬអ្នកដែលមានប្រព័ន្ធភាពស៊ាំចុះខ្សោយ មិនគួរប្រើផលិតផលនេះទេ។"
+    },
+    "t|Faq|37|question": {
+        "en": "What is a probiotic?",
+        "km": "តើប្រូបាយអូទិកជាអ្វី?"
+    },
+    "t|Faq|37|answer": {
+        "en": "<p>A live microorganism which, taken in an adequate amount, is intended to confer a health benefit. The evidence attaches to a specific strain rather than to the category as a whole.</p>",
+        "km": "<p>មីក្រូសរីរាង្គរស់ដែលត្រូវបានប្រើក្នុងបរិមាណគ្រប់គ្រាន់ ដើម្បីផ្តល់អត្ថប្រយោជន៍ដល់សុខភាព។ ភស្តុតាងវិទ្យាសាស្ត្រគាំទ្រទៅលើពូជជាក់លាក់នីមួយៗ មិនមែនលើប្រភេទប្រូបាយអូទិកទាំងមូលនោះទេ។</p>"
+    },
+    "t|Faq|38|question": {
+        "en": "What is the difference between a probiotic and a prebiotic?",
+        "km": "តើប្រូបាយអូទិក និងព្រីបាយអូទិកខុសគ្នាដូចម្តេច?"
+    },
+    "t|Faq|38|answer": {
+        "en": "<p>A probiotic is a live organism. A prebiotic is a food component — typically a fibre — that the organisms already in your gut can use.</p>",
+        "km": "<p>ប្រូបាយអូទិកគឺជាមីក្រូសរីរាង្គរស់។ ចំណែកព្រីបាយអូទិកគឺជាសមាសធាតុក្នុងអាហារ ដែលជាទូទៅជាជាតិសរសៃ ហើយអាចត្រូវបានមីក្រូសរីរាង្គដែលមានស្រាប់ក្នុងពោះវៀនប្រើប្រាស់បាន។</p>"
+    },
+    "t|Faq|39|question": {
+        "en": "Why does the strain matter so much?",
+        "km": "ហេតុអ្វីបានជាពូជមីក្រូសរីរាង្គមានសារៈសំខាន់ខ្លាំង?"
+    },
+    "t|Faq|39|answer": {
+        "en": "<p>Because effects shown for one strain cannot be assumed for a related one. The strain designation on the pack is what connects a product to its research.</p>",
+        "km": "<p>ដោយសារឥទ្ធិពលដែលបានបង្ហាញសម្រាប់ពូជមួយ មិនអាចសន្មតថាមានលទ្ធផលដូចគ្នាចំពោះពូជដែលពាក់ព័ន្ធផ្សេងទៀតបានទេ។ លេខសម្គាល់ពូជដែលបង្ហាញលើសំបកវេចខ្ចប់ គឺជាព័ត៌មានសម្រាប់ភ្ជាប់ផលិតផលទៅនឹងការស្រាវជ្រាវរបស់វា។</p>"
+    },
+    "t|Faq|40|question": {
+        "en": "Can I take it with antibiotics?",
+        "km": "តើខ្ញុំអាចប្រើវាជាមួយថ្នាំអង់ទីប៊ីយោទិកបានទេ?"
+    },
+    "t|Faq|40|answer": {
+        "en": "<p>A yeast probiotic is commonly taken during a course, since antibacterial agents do not act on yeasts. Check the timing with your pharmacist.</p>",
+        "km": "<p>ជាទូទៅ អាចប្រើប្រូបាយអូទិកប្រភេទមេដំបែក្នុងអំឡុងពេលប្រើថ្នាំអង់ទីប៊ីយោទិកបាន ព្រោះថ្នាំប្រឆាំងបាក់តេរីមិនមានសកម្មភាពលើមេដំបែទេ។ សូមសាកសួរឱសថការីអំពីចន្លោះពេលប្រើថ្នាំ។</p>"
+    },
+    "t|Faq|41|question": {
+        "en": "What is the right dose?",
+        "km": "តើកម្រិតប្រើត្រឹមត្រូវគឺប៉ុន្មាន?"
+    },
+    "t|Faq|41|answer": {
+        "en": "<p>Follow the pack and the leaflet, which differ by format and by market. If you are unsure, ask your pharmacist rather than estimating.</p>",
+        "km": "<p>សូមអនុវត្តតាមការណែនាំនៅលើសំបកវេចខ្ចប់ និងសន្លឹកណែនាំប្រើប្រាស់ ព្រោះកម្រិតប្រើអាចខុសគ្នាតាមទម្រង់ផលិតផល និងទីផ្សារ។ ប្រសិនបើមិនប្រាកដ សូមសាកសួរឱសថការី ជាជាងប៉ាន់ស្មានកម្រិតប្រើដោយខ្លួនឯង។</p>"
+    },
+    "t|Faq|42|question": {
+        "en": "Can I mix a sachet into a hot drink?",
+        "km": "តើខ្ញុំអាចលាយកញ្ចប់ម្សៅជាមួយភេសជ្ជៈក្តៅបានទេ?"
+    },
+    "t|Faq|42|answer": {
+        "en": "<p>No. Use water or a cool drink — heat is not appropriate for a live culture.</p>",
+        "km": "<p>ទេ។ សូមលាយជាមួយទឹក ឬភេសជ្ជៈត្រជាក់។ កម្តៅមិនសមស្របសម្រាប់មេដំបែរស់ទេ។</p>"
+    },
+    "t|Faq|43|question": {
+        "en": "What if I miss a dose?",
+        "km": "ចុះប្រសិនបើខ្ញុំភ្លេចប្រើមួយដង?"
+    },
+    "t|Faq|43|answer": {
+        "en": "<p>Take the next one as scheduled. Do not double up.</p>",
+        "km": "<p>សូមប្រើដូសបន្ទាប់តាមពេលវេលាដែលបានកំណត់។ កុំប្រើបន្ថែមទ្វេដងដើម្បី补ដូសដែលភ្លេច។</p>"
+    },
+    "t|Faq|44|question": {
+        "en": "How should I store it?",
+        "km": "តើត្រូវរក្សាទុកវាដោយរបៀបណា?"
+    },
+    "t|Faq|44|answer": {
+        "en": "<p>Store below 30&nbsp;&deg;C in a cool, dry place, following the instructions on the pack. Keep out of the reach and sight of children.</p>",
+        "km": "<p>រក្សាទុកនៅសីតុណ្ហភាពក្រោម 30&nbsp;&deg;C ក្នុងកន្លែងត្រជាក់ និងស្ងួត ដោយអនុវត្តតាមការណែនាំនៅលើសំបកវេចខ្ចប់។ ទុកឱ្យផុតពីដៃ និងមើលមិនឃើញពីកុមារ។</p>"
+    },
+    "t|Faq|45|question": {
+        "en": "Are there people who should not take it?",
+        "km": "តើមានអ្នកណាខ្លះដែលមិនគួរប្រើវា?"
+    },
+    "t|Faq|45|answer": {
+        "en": "<p>Yes. Anyone immunocompromised, critically ill, or with a central venous catheter should not take a probiotic without medical supervision. Check the leaflet and ask your doctor.</p>",
+        "km": "<p>មាន។ អ្នកដែលមានប្រព័ន្ធភាពស៊ាំចុះខ្សោយ អ្នកជំងឺធ្ងន់ធ្ងរ ឬអ្នកដែលមានបំពង់បញ្ចូលតាមសរសៃវ៉ែនកណ្តាល មិនគួរប្រើប្រូបាយអូទិកដោយគ្មានការត្រួតពិនិត្យពីអ្នកជំនាញវេជ្ជសាស្ត្រឡើយ។ សូមពិនិត្យសន្លឹកណែនាំប្រើប្រាស់ និងពិគ្រោះជាមួយវេជ្ជបណ្ឌិត។</p>"
+    },
+    "t|Faq|46|question": {
+        "en": "Can I take it while pregnant or breastfeeding?",
+        "km": "តើខ្ញុំអាចប្រើវាពេលមានផ្ទៃពោះ ឬបំបៅដោះកូនបានទេ?"
+    },
+    "t|Faq|46|answer": {
+        "en": "<p>Ask your doctor or midwife first — guidance varies by market and by individual circumstances.</p>",
+        "km": "<p>សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ឬឆ្មបជាមុនសិន ព្រោះការណែនាំអាចខុសគ្នាទៅតាមទីផ្សារ និងស្ថានភាពរបស់បុគ្គលម្នាក់ៗ។</p>"
+    },
+    "t|Faq|47|question": {
+        "en": "Where can I buy it?",
+        "km": "តើខ្ញុំអាចទិញវានៅឯណា?"
+    },
+    "t|Faq|47|answer": {
+        "en": "<p>Through pharmacies and selected online partners. See the Where to buy page for the list in your country.</p>",
+        "km": "<p>អ្នកអាចទិញបានតាមឱសថស្ថាន និងដៃគូលក់តាមអនឡាញដែលបានជ្រើសរើស។ សូមចូលមើលទំព័រ «កន្លែងទិញ» ដើម្បីពិនិត្យបញ្ជីនៅក្នុងប្រទេសរបស់អ្នក។</p>"
+    },
+    "t|Faq|48|question": {
+        "en": "Why is a format I have seen not available here?",
+        "km": "ហេតុអ្វីបានជាទម្រង់ដែលខ្ញុំធ្លាប់ឃើញមិនមាននៅទីនេះ?"
+    },
+    "t|Faq|48|answer": {
+        "en": "<p>Registration and availability differ by market. Your pharmacist can advise on the closest locally approved equivalent.</p>",
+        "km": "<p>ការចុះបញ្ជី និងការដាក់លក់ផលិតផលអាចខុសគ្នាតាមទីផ្សារ។ ឱសថការីអាចណែនាំផលិតផលដែលមានលក្ខណៈប្រហាក់ប្រហែល និងទទួលបានការអនុម័តឱ្យប្រើប្រាស់ក្នុងប្រទេស។</p>"
+    },
+    "a|11111|usage": {
+        "en": "Treatment of acute infectious diarrhoea of adults and children.\nPrevention and treatment of antibiotic-associated colitis and diarrhoea.\nAddition to vancomycin/metronidazole treatment to prevent recurrence of Clostridium difficile diseases.\nPrevention of tube-feeding associated diarrhoea.\nTreatment of irritable bowel syndrome.",
+        "km": "ការព្យាបាលរាគរូសស្រួចស្រាវដែលបណ្តាលមកពីការឆ្លងមេរោគ ចំពោះមនុស្សពេញវ័យ និងកុមារ។\nការការពារ និងព្យាបាលការរលាកពោះវៀនធំ និងរាគរូសដែលពាក់ព័ន្ធនឹងការប្រើថ្នាំអង់ទីប៊ីយោទិក។\nប្រើបន្ថែមជាមួយការព្យាបាលដោយ vancomycin/metronidazole ដើម្បីការពារការកើតឡើងវិញនៃជំងឺដែលបង្កដោយ Clostridium difficile។\nការការពាររាគរូសដែលពាក់ព័ន្ធនឹងការផ្តល់អាហារតាមបំពង់។\nការព្យាបាលរោគសញ្ញាពោះវៀនឆាប់រំខាន (IBS)។"
+    },
+    "a|11111|dosage": {
+        "en": "<p>Oral route, 1 or 2 sachets, given once or twice daily.</p>",
+        "km": "<p>ប្រើតាមមាត់៖ 1 ឬ 2 កញ្ចប់ ក្នុងមួយដង ដោយប្រើ 1 ឬ 2 ដងក្នុងមួយថ្ងៃ។</p>"
+    },
+    "a|11111|storage": {
+        "en": "<p>Store away from reach and sight of children</p><p>Store below 30°C.</p>",
+        "km": "<p>រក្សាទុកឱ្យផុតពីដៃ និងមើលមិនឃើញពីកុមារ។</p><p>រក្សាទុកនៅសីតុណ្ហភាពក្រោម 30°C។</p>"
+    },
+    "a|11111|ingredients": {
+        "en": "<p>Saccharomyces boulardii CNCM I-745 — 250 mg per sachet</p>",
+        "km": "<p>Saccharomyces boulardii CNCM I-745 — 250 mg ក្នុងមួយកញ្ចប់</p>"
+    },
+    "a|11111|how_to_use": {
+        "en": "[pour] Open the sachet.\n[mix] Mix the powder with water or food.\n[drink] Take 1 or 2 sachets, once or twice daily.",
+        "km": "[pour] បើកកញ្ចប់ម្សៅ។\n[mix] លាយម្សៅជាមួយទឹក ឬអាហារ។\n[drink] ប្រើ 1 ឬ 2 កញ្ចប់ ម្តង ឬពីរដងក្នុងមួយថ្ងៃ។"
+    },
+    "a|11111|references": {
+        "en": "<p>(1) Add the approved reference for each claim on this page.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័តសម្រាប់ការអះអាងនីមួយៗនៅលើទំព័រនេះ។</p>"
+    },
+    "a|11118|usage": {
+        "en": "Treatment of acute infectious diarrhoea of adults and children.\nPrevention and treatment of antibiotic-associated colitis and diarrhoea.\nAddition to vancomycin/metronidazole treatment to prevent recurrence of Clostridium difficile diseases.\nPrevention of tube-feeding associated diarrhoea.\nTreatment of irritable bowel syndrome.",
+        "km": "ការព្យាបាលរាគរូសស្រួចស្រាវដែលបណ្តាលមកពីការឆ្លងមេរោគ ចំពោះមនុស្សពេញវ័យ និងកុមារ។\nការការពារ និងព្យាបាលការរលាកពោះវៀនធំ និងរាគរូសដែលពាក់ព័ន្ធនឹងការប្រើថ្នាំអង់ទីប៊ីយោទិក។\nប្រើបន្ថែមជាមួយការព្យាបាលដោយ vancomycin/metronidazole ដើម្បីការពារការកើតឡើងវិញនៃជំងឺដែលបង្កដោយ Clostridium difficile។\nការការពាររាគរូសដែលពាក់ព័ន្ធនឹងការផ្តល់អាហារតាមបំពង់។\nការព្យាបាលរោគសញ្ញាពោះវៀនឆាប់រំខាន (IBS)។"
+    },
+    "a|11118|dosage": {
+        "en": "<p>Oral route, 1 or 2 capsules, given once or twice daily.</p>",
+        "km": "<p>ប្រើតាមមាត់៖ 1 ឬ 2 កាបស៊ុល ក្នុងមួយដង ដោយប្រើ 1 ឬ 2 ដងក្នុងមួយថ្ងៃ។</p>"
+    },
+    "a|11118|storage": {
+        "en": "<p>Store away from reach and sight of children</p><p>Store below 30°C.</p>",
+        "km": "<p>រក្សាទុកឱ្យផុតពីដៃ និងមើលមិនឃើញពីកុមារ។</p><p>រក្សាទុកនៅសីតុណ្ហភាពក្រោម 30°C។</p>"
+    },
+    "a|11118|ingredients": {
+        "en": "<p>Saccharomyces boulardii CNCM I-745 — 250 mg per capsule</p>",
+        "km": "<p>Saccharomyces boulardii CNCM I-745 — 250 mg ក្នុងមួយកាបស៊ុល</p>"
+    },
+    "a|11118|how_to_use": {
+        "en": "[swallow] Swallow the capsule with water.\n[drink] Take 1 or 2 capsules, once or twice daily.",
+        "km": "[swallow] លេបកាបស៊ុលជាមួយទឹក។\n[drink] ប្រើ 1 ឬ 2 កាបស៊ុល ម្តង ឬពីរដងក្នុងមួយថ្ងៃ។"
+    },
+    "a|11118|references": {
+        "en": "<p>(1) Add the approved reference for each claim on this page.</p>",
+        "km": "<p>(1) សូមបន្ថែមឯកសារយោងដែលបានអនុម័តសម្រាប់ការអះអាងនីមួយៗនៅលើទំព័រនេះ។</p>"
+    },
+    "a|11111|pack_size": {
+        "en": "10 sachets",
+        "km": "10 កញ្ចប់"
+    },
+    "a|11118|pack_size": {
+        "en": "10 capsules",
+        "km": "10 កាបស៊ុល"
+    }
+}

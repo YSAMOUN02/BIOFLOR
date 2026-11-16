@@ -11,7 +11,7 @@ if (! function_exists('setting')) {
 }
 
 if (! function_exists('content_locale')) {
-    /** Language of the current page for translated content: '' for the default language, else its prefix (km, fr). */
+    /** Language of the current page for translated content: '' for the default language, else its prefix (km). */
     function content_locale(): string
     {
         $locale = app()->bound('storefront.locale') ? (string) app('storefront.locale') : '';
